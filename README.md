@@ -20,10 +20,10 @@ Breakdown of how work was organized among the group members:
 
 Data preprocessing:
 1. For generating data for Line graph from json files to csv of spain and england match events.
-https://github.com/akashindani/akashindani.github.io/blob/main/data_preprocessing/EnglishLeague.ipynb
-https://github.com/akashindani/akashindani.github.io/blob/main/data_preprocessing/spain%20league%20DataPrep.ipynb
+https://github.com/reek129/reekMajumder/blob/main/data_preprocessing/EnglishLeague.ipynb
+https://github.com/reek129/reekMajumder/blob/main/data_preprocessing/spain%20league%20DataPrep.ipynb
 2. For generating a flat csv from match events of england and spain json files. This is for network graph.
-https://github.com/akashindani/akashindani.github.io/blob/main/data_preprocessing/data_viz.ipynb
+https://github.com/reek129/reekMajumder/blob/main/data_preprocessing/data_viz.ipynb
 
 Some more tried visualizations:
 1. Relative team performance line graph (https://akashindani.github.io/index_new.html)

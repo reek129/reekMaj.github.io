@@ -3,7 +3,7 @@ Group number: 5
 
 Group members: Akash Indani, Reek Majumder
 
-Link to your website: https://akashindani.github.io/
+Link to your website: https://reek129.github.io/reekMajumder/
 
 Link to your original dataset: https://figshare.com/collections/Soccer_match_event_dataset/4415000
 

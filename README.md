@@ -26,7 +26,7 @@ https://github.com/reek129/reekMajumder/blob/main/data_preprocessing/spain%20lea
 https://github.com/reek129/reekMajumder/blob/main/data_preprocessing/data_viz.ipynb
 
 Some more tried visualizations:
-1. Relative team performance line graph (https://akashindani.github.io/index_new.html)
+1. Relative team performance line graph (https://github.com/reek129/reekMajumder/blob/main/index_new.html)
 2. Soccer field (https://observablehq.com/d/d3d723951739204f).
 3. Line graph with adding colors of win, draw and loose to the bumps. ( https://observablehq.com/@rmajumd/final-lines-with-bumps-v1-2-1  )
 

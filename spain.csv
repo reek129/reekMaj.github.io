@@ -1,0 +1,761 @@
+,home_team,home_goals,away_team,away_goals,date2,team,week,points
+0,Barcelona,2,Real Betis,0,2017-08-20 18:15:00,Barcelona,1,3
+1,Deportivo Alaves,0,Barcelona,2,2017-08-26 16:15:00,Barcelona,2,6
+2,Barcelona,5,Espanyol,0,2017-09-09 18:45:00,Barcelona,3,9
+3,Getafe,1,Barcelona,2,2017-09-16 14:15:00,Barcelona,4,12
+4,Barcelona,6,Eibar,1,2017-09-19 20:00:00,Barcelona,5,15
+5,Girona,0,Barcelona,3,2017-09-23 18:45:00,Barcelona,6,18
+6,Barcelona,3,Las Palmas,0,2017-10-01 14:15:00,Barcelona,7,21
+7,Atletico Madrid,1,Barcelona,1,2017-10-14 18:45:00,Barcelona,8,22
+8,Barcelona,2,Malaga,0,2017-10-21 18:45:00,Barcelona,9,25
+9,Athletic Club,0,Barcelona,2,2017-10-28 18:45:00,Barcelona,10,28
+10,Barcelona,2,Sevilla,1,2017-11-04 19:45:00,Barcelona,11,31
+11,Leganes,0,Barcelona,3,2017-11-18 15:15:00,Barcelona,12,34
+12,Valencia,1,Barcelona,1,2017-11-26 19:45:00,Barcelona,13,35
+13,Barcelona,2,Celta de Vigo,2,2017-12-02 12:00:00,Barcelona,14,36
+14,Villarreal,0,Barcelona,2,2017-12-10 19:45:00,Barcelona,15,39
+15,Barcelona,4,Deportivo La Coruna,0,2017-12-17 19:45:00,Barcelona,16,42
+16,Real Madrid,0,Barcelona,3,2017-12-23 12:00:00,Barcelona,17,45
+17,Barcelona,3,Levante,0,2018-01-07 15:15:00,Barcelona,18,48
+18,Real Sociedad,2,Barcelona,4,2018-01-14 19:45:00,Barcelona,19,51
+19,Real Betis,0,Barcelona,5,2018-01-21 19:45:00,Barcelona,20,54
+20,Barcelona,2,Deportivo Alaves,1,2018-01-28 19:45:00,Barcelona,21,57
+21,Espanyol,1,Barcelona,1,2018-02-04 15:15:00,Barcelona,22,58
+22,Barcelona,0,Getafe,0,2018-02-11 15:15:00,Barcelona,23,59
+23,Eibar,0,Barcelona,2,2018-02-17 15:15:00,Barcelona,24,62
+24,Barcelona,6,Girona,1,2018-02-24 19:45:00,Barcelona,25,65
+25,Las Palmas,1,Barcelona,1,2018-03-01 20:00:00,Barcelona,26,66
+26,Barcelona,1,Atletico Madrid,0,2018-03-04 15:15:00,Barcelona,27,69
+27,Malaga,0,Barcelona,2,2018-03-10 19:45:00,Barcelona,28,72
+28,Barcelona,2,Athletic Club,0,2018-03-18 15:15:00,Barcelona,29,75
+29,Sevilla,2,Barcelona,2,2018-03-31 18:45:00,Barcelona,30,76
+30,Barcelona,3,Leganes,1,2018-04-07 18:45:00,Barcelona,31,79
+31,Barcelona,2,Valencia,1,2018-04-14 14:15:00,Barcelona,32,82
+32,Celta de Vigo,2,Barcelona,2,2018-04-17 19:00:00,Barcelona,33,83
+33,Deportivo La Coruna,2,Barcelona,4,2018-04-29 18:45:00,Barcelona,34,86
+34,Barcelona,2,Real Madrid,2,2018-05-06 18:45:00,Barcelona,35,87
+35,Barcelona,5,Villarreal,1,2018-05-09 18:00:00,Barcelona,36,90
+36,Levante,5,Barcelona,4,2018-05-13 18:45:00,Barcelona,37,90
+37,Barcelona,1,Real Sociedad,0,2018-05-20 18:45:00,Barcelona,38,93
+38,Celta de Vigo,2,Real Sociedad,3,2017-08-19 16:15:00,Real Sociedad,1,3
+39,Real Sociedad,3,Villarreal,0,2017-08-25 18:15:00,Real Sociedad,2,6
+40,Deportivo La Coruna,2,Real Sociedad,4,2017-09-10 10:00:00,Real Sociedad,3,9
+41,Real Sociedad,1,Real Madrid,3,2017-09-17 18:45:00,Real Sociedad,4,9
+42,Levante,3,Real Sociedad,0,2017-09-21 20:00:00,Real Sociedad,5,9
+43,Real Sociedad,2,Valencia,3,2017-09-24 18:45:00,Real Sociedad,6,9
+44,Real Sociedad,4,Real Betis,4,2017-10-01 10:00:00,Real Sociedad,7,10
+45,Deportivo Alaves,0,Real Sociedad,2,2017-10-14 16:30:00,Real Sociedad,8,13
+46,Real Sociedad,1,Espanyol,1,2017-10-23 18:00:00,Real Sociedad,9,14
+47,Getafe,2,Real Sociedad,1,2017-10-29 11:00:00,Real Sociedad,10,14
+48,Real Sociedad,3,Eibar,1,2017-11-05 17:30:00,Real Sociedad,11,17
+49,Girona,1,Real Sociedad,1,2017-11-17 20:00:00,Real Sociedad,12,18
+50,Real Sociedad,2,Las Palmas,2,2017-11-26 15:15:00,Real Sociedad,13,19
+51,Atletico Madrid,2,Real Sociedad,1,2017-12-02 15:15:00,Real Sociedad,14,19
+52,Real Sociedad,0,Malaga,2,2017-12-10 11:00:00,Real Sociedad,15,19
+53,Athletic Club,0,Real Sociedad,0,2017-12-16 15:15:00,Real Sociedad,16,20
+54,Real Sociedad,3,Sevilla,1,2017-12-20 20:30:00,Real Sociedad,17,23
+55,Leganes,1,Real Sociedad,0,2018-01-07 11:00:00,Real Sociedad,18,23
+56,Real Sociedad,2,Barcelona,4,2018-01-14 19:45:00,Real Sociedad,19,23
+57,Real Sociedad,1,Celta de Vigo,2,2018-01-21 17:30:00,Real Sociedad,20,23
+58,Villarreal,4,Real Sociedad,2,2018-01-27 19:45:00,Real Sociedad,21,23
+59,Real Sociedad,5,Deportivo La Coruna,0,2018-02-02 20:00:00,Real Sociedad,22,26
+60,Real Madrid,5,Real Sociedad,2,2018-02-10 19:45:00,Real Sociedad,23,26
+61,Real Sociedad,3,Levante,0,2018-02-18 11:00:00,Real Sociedad,24,29
+62,Valencia,2,Real Sociedad,1,2018-02-25 17:30:00,Real Sociedad,25,29
+63,Real Betis,0,Real Sociedad,0,2018-03-01 18:30:00,Real Sociedad,26,30
+64,Real Sociedad,2,Deportivo Alaves,1,2018-03-04 17:30:00,Real Sociedad,27,33
+65,Espanyol,2,Real Sociedad,1,2018-03-11 11:00:00,Real Sociedad,28,33
+66,Real Sociedad,1,Getafe,2,2018-03-17 17:30:00,Real Sociedad,29,33
+67,Eibar,0,Real Sociedad,0,2018-04-01 16:30:00,Real Sociedad,30,34
+68,Real Sociedad,5,Girona,0,2018-04-08 16:30:00,Real Sociedad,31,37
+69,Las Palmas,0,Real Sociedad,1,2018-04-14 16:30:00,Real Sociedad,32,40
+70,Real Sociedad,3,Atletico Madrid,0,2018-04-19 17:30:00,Real Sociedad,33,43
+71,Malaga,2,Real Sociedad,0,2018-04-22 14:15:00,Real Sociedad,34,43
+72,Real Sociedad,3,Athletic Club,1,2018-04-28 14:15:00,Real Sociedad,35,46
+73,Sevilla,1,Real Sociedad,0,2018-05-04 19:00:00,Real Sociedad,36,46
+74,Real Sociedad,3,Leganes,2,2018-05-12 13:15:00,Real Sociedad,37,49
+75,Barcelona,1,Real Sociedad,0,2018-05-20 18:45:00,Real Sociedad,38,49
+76,Girona,2,Atletico Madrid,2,2017-08-19 18:15:00,Atletico Madrid,1,1
+77,Las Palmas,1,Atletico Madrid,5,2017-08-26 20:15:00,Atletico Madrid,2,4
+78,Valencia,0,Atletico Madrid,0,2017-09-09 14:15:00,Atletico Madrid,3,5
+79,Atletico Madrid,1,Malaga,0,2017-09-16 18:45:00,Atletico Madrid,4,8
+80,Athletic Club,1,Atletico Madrid,2,2017-09-20 18:00:00,Atletico Madrid,5,11
+81,Atletico Madrid,2,Sevilla,0,2017-09-23 11:00:00,Atletico Madrid,6,14
+82,Leganes,0,Atletico Madrid,0,2017-09-30 18:45:00,Atletico Madrid,7,15
+83,Atletico Madrid,1,Barcelona,1,2017-10-14 18:45:00,Atletico Madrid,8,16
+84,Celta de Vigo,0,Atletico Madrid,1,2017-10-22 14:15:00,Atletico Madrid,9,19
+85,Atletico Madrid,1,Villarreal,1,2017-10-28 16:30:00,Atletico Madrid,10,20
+86,Deportivo La Coruna,0,Atletico Madrid,1,2017-11-04 15:15:00,Atletico Madrid,11,23
+87,Atletico Madrid,0,Real Madrid,0,2017-11-18 19:45:00,Atletico Madrid,12,24
+88,Levante,0,Atletico Madrid,5,2017-11-25 19:45:00,Atletico Madrid,13,27
+89,Atletico Madrid,2,Real Sociedad,1,2017-12-02 15:15:00,Atletico Madrid,14,30
+90,Real Betis,0,Atletico Madrid,1,2017-12-10 15:15:00,Atletico Madrid,15,33
+91,Atletico Madrid,1,Deportivo Alaves,0,2017-12-16 19:45:00,Atletico Madrid,16,36
+92,Espanyol,1,Atletico Madrid,0,2017-12-22 20:30:00,Atletico Madrid,17,36
+93,Atletico Madrid,2,Getafe,0,2018-01-06 12:00:00,Atletico Madrid,18,39
+94,Eibar,0,Atletico Madrid,1,2018-01-13 17:30:00,Atletico Madrid,19,42
+95,Atletico Madrid,1,Girona,1,2018-01-20 15:15:00,Atletico Madrid,20,43
+96,Atletico Madrid,3,Las Palmas,0,2018-01-28 15:15:00,Atletico Madrid,21,46
+97,Atletico Madrid,1,Valencia,0,2018-02-04 19:45:00,Atletico Madrid,22,49
+98,Malaga,0,Atletico Madrid,1,2018-02-10 15:15:00,Atletico Madrid,23,52
+99,Atletico Madrid,2,Athletic Club,0,2018-02-18 15:15:00,Atletico Madrid,24,55
+100,Sevilla,2,Atletico Madrid,5,2018-02-25 19:45:00,Atletico Madrid,25,58
+101,Atletico Madrid,4,Leganes,0,2018-02-28 20:30:00,Atletico Madrid,26,61
+102,Barcelona,1,Atletico Madrid,0,2018-03-04 15:15:00,Atletico Madrid,27,61
+103,Atletico Madrid,3,Celta de Vigo,0,2018-03-11 15:15:00,Atletico Madrid,28,64
+104,Villarreal,2,Atletico Madrid,1,2018-03-18 17:30:00,Atletico Madrid,29,64
+105,Atletico Madrid,1,Deportivo La Coruna,0,2018-04-01 18:45:00,Atletico Madrid,30,67
+106,Real Madrid,1,Atletico Madrid,1,2018-04-08 14:15:00,Atletico Madrid,31,68
+107,Atletico Madrid,3,Levante,0,2018-04-15 14:15:00,Atletico Madrid,32,71
+108,Real Sociedad,3,Atletico Madrid,0,2018-04-19 17:30:00,Atletico Madrid,33,71
+109,Atletico Madrid,0,Real Betis,0,2018-04-22 18:45:00,Atletico Madrid,34,72
+110,Deportivo Alaves,0,Atletico Madrid,1,2018-04-29 14:15:00,Atletico Madrid,35,75
+111,Atletico Madrid,0,Espanyol,2,2018-05-06 14:15:00,Atletico Madrid,36,75
+112,Getafe,0,Atletico Madrid,1,2018-05-12 15:30:00,Atletico Madrid,37,78
+113,Atletico Madrid,2,Eibar,2,2018-05-20 16:30:00,Atletico Madrid,38,79
+114,Malaga,0,Eibar,1,2017-08-21 20:00:00,Eibar,1,3
+115,Eibar,0,Athletic Club,1,2017-08-27 16:15:00,Eibar,2,3
+116,Sevilla,3,Eibar,0,2017-09-09 16:30:00,Eibar,3,3
+117,Eibar,1,Leganes,0,2017-09-15 19:00:00,Eibar,4,6
+118,Barcelona,6,Eibar,1,2017-09-19 20:00:00,Eibar,5,6
+119,Eibar,0,Celta de Vigo,4,2017-09-24 16:30:00,Eibar,6,6
+120,Villarreal,3,Eibar,0,2017-10-01 16:30:00,Eibar,7,6
+121,Eibar,0,Deportivo La Coruna,0,2017-10-15 10:00:00,Eibar,8,7
+122,Real Madrid,3,Eibar,0,2017-10-22 18:45:00,Eibar,9,7
+123,Eibar,2,Levante,2,2017-10-29 17:30:00,Eibar,10,8
+124,Real Sociedad,3,Eibar,1,2017-11-05 17:30:00,Eibar,11,8
+125,Eibar,5,Real Betis,0,2017-11-20 20:00:00,Eibar,12,11
+126,Deportivo Alaves,1,Eibar,2,2017-11-25 12:00:00,Eibar,13,14
+127,Eibar,3,Espanyol,1,2017-12-03 17:30:00,Eibar,14,17
+128,Getafe,0,Eibar,0,2017-12-09 12:00:00,Eibar,15,18
+129,Eibar,2,Valencia,1,2017-12-16 17:30:00,Eibar,16,21
+130,Eibar,4,Girona,1,2017-12-21 18:30:00,Eibar,17,24
+131,Las Palmas,1,Eibar,2,2018-01-06 17:30:00,Eibar,18,27
+132,Eibar,0,Atletico Madrid,1,2018-01-13 17:30:00,Eibar,19,27
+133,Eibar,1,Malaga,1,2018-01-22 20:00:00,Eibar,20,28
+134,Athletic Club,1,Eibar,1,2018-01-26 20:00:00,Eibar,21,29
+135,Eibar,5,Sevilla,1,2018-02-03 12:00:00,Eibar,22,32
+136,Leganes,0,Eibar,1,2018-02-10 17:30:00,Eibar,23,35
+137,Eibar,0,Barcelona,2,2018-02-17 15:15:00,Eibar,24,35
+138,Celta de Vigo,2,Eibar,0,2018-02-24 12:00:00,Eibar,25,35
+139,Eibar,1,Villarreal,0,2018-02-28 20:30:00,Eibar,26,38
+140,Deportivo La Coruna,1,Eibar,1,2018-03-03 17:30:00,Eibar,27,39
+141,Eibar,1,Real Madrid,2,2018-03-10 12:00:00,Eibar,28,39
+142,Levante,2,Eibar,1,2018-03-16 20:00:00,Eibar,29,39
+143,Eibar,0,Real Sociedad,0,2018-04-01 16:30:00,Eibar,30,40
+144,Real Betis,2,Eibar,0,2018-04-07 16:30:00,Eibar,31,40
+145,Eibar,0,Deportivo Alaves,1,2018-04-15 10:00:00,Eibar,32,40
+146,Espanyol,0,Eibar,1,2018-04-18 16:30:00,Eibar,33,43
+147,Eibar,0,Getafe,1,2018-04-21 11:00:00,Eibar,34,43
+148,Valencia,0,Eibar,0,2018-04-29 16:30:00,Eibar,35,44
+149,Girona,1,Eibar,4,2018-05-05 11:00:00,Eibar,36,47
+150,Eibar,1,Las Palmas,0,2018-05-12 15:30:00,Eibar,37,50
+151,Atletico Madrid,2,Eibar,2,2018-05-20 16:30:00,Eibar,38,51
+152,Sevilla,1,Espanyol,1,2017-08-19 20:15:00,Espanyol,1,1
+153,Espanyol,0,Leganes,1,2017-08-27 16:15:00,Espanyol,2,1
+154,Barcelona,5,Espanyol,0,2017-09-09 18:45:00,Espanyol,3,1
+155,Espanyol,2,Celta de Vigo,1,2017-09-18 19:00:00,Espanyol,4,4
+156,Villarreal,0,Espanyol,0,2017-09-21 18:00:00,Espanyol,5,5
+157,Espanyol,4,Deportivo La Coruna,1,2017-09-24 10:00:00,Espanyol,6,8
+158,Real Madrid,2,Espanyol,0,2017-10-01 18:45:00,Espanyol,7,8
+159,Espanyol,0,Levante,0,2017-10-13 19:00:00,Espanyol,8,9
+160,Real Sociedad,1,Espanyol,1,2017-10-23 18:00:00,Espanyol,9,10
+161,Espanyol,1,Real Betis,0,2017-10-30 20:00:00,Espanyol,10,13
+162,Deportivo Alaves,1,Espanyol,0,2017-11-04 17:30:00,Espanyol,11,13
+163,Espanyol,0,Valencia,2,2017-11-19 15:15:00,Espanyol,12,13
+164,Espanyol,1,Getafe,0,2017-11-27 20:00:00,Espanyol,13,16
+165,Eibar,3,Espanyol,1,2017-12-03 17:30:00,Espanyol,14,16
+166,Espanyol,0,Girona,1,2017-12-11 20:00:00,Espanyol,15,16
+167,Las Palmas,2,Espanyol,2,2017-12-17 17:30:00,Espanyol,16,17
+168,Espanyol,1,Atletico Madrid,0,2017-12-22 20:30:00,Espanyol,17,20
+169,Malaga,0,Espanyol,1,2018-01-08 20:00:00,Espanyol,18,23
+170,Espanyol,1,Athletic Club,1,2018-01-14 17:30:00,Espanyol,19,24
+171,Espanyol,0,Sevilla,3,2018-01-20 12:00:00,Espanyol,20,24
+172,Leganes,3,Espanyol,2,2018-01-28 11:00:00,Espanyol,21,24
+173,Espanyol,1,Barcelona,1,2018-02-04 15:15:00,Espanyol,22,25
+174,Celta de Vigo,2,Espanyol,2,2018-02-11 17:30:00,Espanyol,23,26
+175,Espanyol,1,Villarreal,1,2018-02-18 17:30:00,Espanyol,24,27
+176,Deportivo La Coruna,0,Espanyol,0,2018-02-23 20:00:00,Espanyol,25,28
+177,Espanyol,1,Real Madrid,0,2018-02-27 19:00:00,Espanyol,26,31
+178,Levante,1,Espanyol,1,2018-03-04 11:00:00,Espanyol,27,32
+179,Espanyol,2,Real Sociedad,1,2018-03-11 11:00:00,Espanyol,28,35
+180,Real Betis,3,Espanyol,0,2018-03-17 19:45:00,Espanyol,29,35
+181,Espanyol,0,Deportivo Alaves,0,2018-04-01 10:00:00,Espanyol,30,36
+182,Valencia,1,Espanyol,0,2018-04-08 18:45:00,Espanyol,31,36
+183,Getafe,1,Espanyol,0,2018-04-15 16:30:00,Espanyol,32,37
+184,Espanyol,0,Eibar,1,2018-04-18 16:30:00,Espanyol,33,37
+185,Girona,0,Espanyol,2,2018-04-22 10:00:00,Espanyol,34,40
+186,Espanyol,1,Las Palmas,1,2018-04-28 11:00:00,Espanyol,35,41
+187,Atletico Madrid,0,Espanyol,2,2018-05-06 14:15:00,Espanyol,36,44
+188,Espanyol,4,Malaga,1,2018-05-13 14:15:00,Espanyol,37,47
+189,Athletic Club,0,Espanyol,1,2018-05-20 14:15:00,Espanyol,38,50
+190,Athletic Club,0,Getafe,0,2017-08-20 16:15:00,Athletic Club,1,1
+191,Eibar,0,Athletic Club,1,2017-08-27 16:15:00,Athletic Club,2,4
+192,Athletic Club,2,Girona,0,2017-09-10 14:15:00,Athletic Club,3,7
+193,Las Palmas,1,Athletic Club,0,2017-09-17 16:30:00,Athletic Club,4,7
+194,Athletic Club,1,Atletico Madrid,2,2017-09-20 18:00:00,Athletic Club,5,7
+195,Malaga,3,Athletic Club,3,2017-09-23 16:30:00,Athletic Club,6,8
+196,Valencia,3,Athletic Club,2,2017-10-01 16:30:00,Athletic Club,7,8
+197,Athletic Club,1,Sevilla,0,2017-10-14 11:00:00,Athletic Club,8,11
+198,Leganes,1,Athletic Club,0,2017-10-22 16:30:00,Athletic Club,9,11
+199,Athletic Club,0,Barcelona,2,2017-10-28 18:45:00,Athletic Club,10,11
+200,Celta de Vigo,3,Athletic Club,1,2017-11-05 15:15:00,Athletic Club,11,11
+201,Athletic Club,1,Villarreal,1,2017-11-19 19:45:00,Athletic Club,12,12
+202,Deportivo La Coruna,2,Athletic Club,2,2017-11-26 11:00:00,Athletic Club,13,13
+203,Athletic Club,0,Real Madrid,0,2017-12-02 19:45:00,Athletic Club,14,14
+204,Levante,1,Athletic Club,2,2017-12-10 17:30:00,Athletic Club,15,17
+205,Athletic Club,0,Real Sociedad,0,2017-12-16 15:15:00,Athletic Club,16,18
+206,Real Betis,0,Athletic Club,2,2017-12-22 18:30:00,Athletic Club,17,21
+207,Athletic Club,2,Deportivo Alaves,0,2018-01-07 17:30:00,Athletic Club,18,24
+208,Espanyol,1,Athletic Club,1,2018-01-14 17:30:00,Athletic Club,19,25
+209,Getafe,2,Athletic Club,2,2018-01-19 20:00:00,Athletic Club,20,26
+210,Athletic Club,1,Eibar,1,2018-01-26 20:00:00,Athletic Club,21,27
+211,Girona,2,Athletic Club,0,2018-02-04 17:30:00,Athletic Club,22,27
+212,Athletic Club,0,Las Palmas,0,2018-02-09 20:00:00,Athletic Club,23,28
+213,Atletico Madrid,2,Athletic Club,0,2018-02-18 15:15:00,Athletic Club,24,28
+214,Athletic Club,2,Malaga,1,2018-02-25 15:15:00,Athletic Club,25,31
+215,Athletic Club,1,Valencia,1,2018-02-28 18:30:00,Athletic Club,26,32
+216,Sevilla,2,Athletic Club,0,2018-03-03 15:15:00,Athletic Club,27,32
+217,Athletic Club,2,Leganes,0,2018-03-11 19:45:00,Athletic Club,28,35
+218,Barcelona,2,Athletic Club,0,2018-03-18 15:15:00,Athletic Club,29,35
+219,Athletic Club,1,Celta de Vigo,1,2018-03-31 14:15:00,Athletic Club,30,36
+220,Villarreal,1,Athletic Club,3,2018-04-09 19:00:00,Athletic Club,31,39
+221,Athletic Club,2,Deportivo La Coruna,3,2018-04-14 18:45:00,Athletic Club,32,39
+222,Real Madrid,1,Athletic Club,1,2018-04-18 18:30:00,Athletic Club,33,40
+223,Athletic Club,1,Levante,3,2018-04-23 19:00:00,Athletic Club,34,40
+224,Real Sociedad,3,Athletic Club,1,2018-04-28 14:15:00,Athletic Club,35,40
+225,Athletic Club,2,Real Betis,0,2018-05-05 14:15:00,Athletic Club,36,43
+226,Deportivo Alaves,3,Athletic Club,1,2018-05-12 15:30:00,Athletic Club,37,43
+227,Athletic Club,0,Espanyol,1,2018-05-20 14:15:00,Athletic Club,38,43
+228,Valencia,1,Las Palmas,0,2017-08-18 20:15:00,Valencia,1,3
+229,Real Madrid,2,Valencia,2,2017-08-27 20:15:00,Valencia,2,4
+230,Valencia,0,Atletico Madrid,0,2017-09-09 14:15:00,Valencia,3,5
+231,Levante,1,Valencia,1,2017-09-16 11:00:00,Valencia,4,6
+232,Valencia,5,Malaga,0,2017-09-19 18:00:00,Valencia,5,9
+233,Real Sociedad,2,Valencia,3,2017-09-24 18:45:00,Valencia,6,12
+234,Valencia,3,Athletic Club,2,2017-10-01 16:30:00,Valencia,7,15
+235,Real Betis,3,Valencia,6,2017-10-15 18:45:00,Valencia,8,18
+236,Valencia,4,Sevilla,0,2017-10-21 16:30:00,Valencia,9,21
+237,Deportivo Alaves,1,Valencia,2,2017-10-28 11:00:00,Valencia,10,24
+238,Valencia,3,Leganes,0,2017-11-04 12:00:00,Valencia,11,27
+239,Espanyol,0,Valencia,2,2017-11-19 15:15:00,Valencia,12,30
+240,Valencia,1,Barcelona,1,2017-11-26 19:45:00,Valencia,13,31
+241,Getafe,1,Valencia,0,2017-12-03 15:15:00,Valencia,14,31
+242,Valencia,2,Celta de Vigo,1,2017-12-09 19:45:00,Valencia,15,34
+243,Eibar,2,Valencia,1,2017-12-16 17:30:00,Valencia,16,34
+244,Valencia,0,Villarreal,1,2017-12-23 15:15:00,Valencia,17,34
+245,Valencia,2,Girona,1,2018-01-06 15:15:00,Valencia,18,37
+246,Deportivo La Coruna,1,Valencia,2,2018-01-13 19:45:00,Valencia,19,40
+247,Las Palmas,2,Valencia,1,2018-01-20 19:45:00,Valencia,20,40
+248,Valencia,1,Real Madrid,4,2018-01-27 15:15:00,Valencia,21,40
+249,Atletico Madrid,1,Valencia,0,2018-02-04 19:45:00,Valencia,22,40
+250,Valencia,3,Levante,1,2018-02-11 19:45:00,Valencia,23,43
+251,Malaga,1,Valencia,2,2018-02-17 19:45:00,Valencia,24,46
+252,Valencia,2,Real Sociedad,1,2018-02-25 17:30:00,Valencia,25,49
+253,Athletic Club,1,Valencia,1,2018-02-28 18:30:00,Valencia,26,50
+254,Valencia,2,Real Betis,0,2018-03-04 19:45:00,Valencia,27,53
+255,Sevilla,0,Valencia,2,2018-03-10 15:15:00,Valencia,28,56
+256,Valencia,3,Deportivo Alaves,1,2018-03-17 15:15:00,Valencia,29,59
+257,Leganes,0,Valencia,1,2018-04-01 14:15:00,Valencia,30,62
+258,Valencia,1,Espanyol,0,2018-04-08 18:45:00,Valencia,31,65
+259,Barcelona,2,Valencia,1,2018-04-14 14:15:00,Valencia,32,65
+260,Valencia,1,Getafe,2,2018-04-18 16:30:00,Valencia,33,65
+261,Celta de Vigo,1,Valencia,1,2018-04-21 14:15:00,Valencia,34,66
+262,Valencia,0,Eibar,0,2018-04-29 16:30:00,Valencia,35,67
+263,Villarreal,1,Valencia,0,2018-05-05 18:45:00,Valencia,36,67
+264,Girona,0,Valencia,1,2018-05-12 15:30:00,Valencia,37,70
+265,Valencia,2,Deportivo La Coruna,1,2018-05-20 10:00:00,Valencia,38,73
+266,Deportivo La Coruna,0,Real Madrid,3,2017-08-20 20:15:00,Deportivo La Coruna,1,0
+267,Levante,2,Deportivo La Coruna,2,2017-08-26 18:15:00,Deportivo La Coruna,2,1
+268,Deportivo La Coruna,2,Real Sociedad,4,2017-09-10 10:00:00,Deportivo La Coruna,3,1
+269,Real Betis,2,Deportivo La Coruna,1,2017-09-16 16:30:00,Deportivo La Coruna,4,1
+270,Deportivo La Coruna,1,Deportivo Alaves,0,2017-09-20 19:00:00,Deportivo La Coruna,5,4
+271,Espanyol,4,Deportivo La Coruna,1,2017-09-24 10:00:00,Deportivo La Coruna,6,4
+272,Deportivo La Coruna,2,Getafe,1,2017-09-30 11:00:00,Deportivo La Coruna,7,7
+273,Eibar,0,Deportivo La Coruna,0,2017-10-15 10:00:00,Deportivo La Coruna,8,8
+274,Deportivo La Coruna,1,Girona,2,2017-10-23 19:00:00,Deportivo La Coruna,9,8
+275,Las Palmas,1,Deportivo La Coruna,3,2017-10-30 20:00:00,Deportivo La Coruna,10,11
+276,Deportivo La Coruna,0,Atletico Madrid,1,2017-11-04 15:15:00,Deportivo La Coruna,11,11
+277,Malaga,3,Deportivo La Coruna,2,2017-11-19 11:00:00,Deportivo La Coruna,12,11
+278,Deportivo La Coruna,2,Athletic Club,2,2017-11-26 11:00:00,Deportivo La Coruna,13,12
+279,Sevilla,2,Deportivo La Coruna,0,2017-12-02 17:30:00,Deportivo La Coruna,14,12
+280,Deportivo La Coruna,1,Leganes,0,2017-12-09 17:30:00,Deportivo La Coruna,15,15
+281,Barcelona,4,Deportivo La Coruna,0,2017-12-17 19:45:00,Deportivo La Coruna,16,15
+282,Deportivo La Coruna,1,Celta de Vigo,3,2017-12-23 17:30:00,Deportivo La Coruna,17,15
+283,Villarreal,1,Deportivo La Coruna,1,2018-01-07 17:30:00,Deportivo La Coruna,18,16
+284,Deportivo La Coruna,1,Valencia,2,2018-01-13 19:45:00,Deportivo La Coruna,19,16
+285,Real Madrid,7,Deportivo La Coruna,1,2018-01-21 15:15:00,Deportivo La Coruna,20,16
+286,Deportivo La Coruna,2,Levante,2,2018-01-27 12:00:00,Deportivo La Coruna,21,17
+287,Real Sociedad,5,Deportivo La Coruna,0,2018-02-02 20:00:00,Deportivo La Coruna,22,17
+288,Deportivo La Coruna,0,Real Betis,1,2018-02-12 20:00:00,Deportivo La Coruna,23,17
+289,Deportivo Alaves,1,Deportivo La Coruna,0,2018-02-17 17:30:00,Deportivo La Coruna,24,17
+290,Deportivo La Coruna,0,Espanyol,0,2018-02-23 20:00:00,Deportivo La Coruna,25,18
+291,Getafe,3,Deportivo La Coruna,0,2018-02-28 18:30:00,Deportivo La Coruna,26,18
+292,Deportivo La Coruna,1,Eibar,1,2018-03-03 17:30:00,Deportivo La Coruna,27,19
+293,Girona,2,Deportivo La Coruna,0,2018-03-09 20:00:00,Deportivo La Coruna,28,19
+294,Deportivo La Coruna,1,Las Palmas,1,2018-03-17 12:00:00,Deportivo La Coruna,29,20
+295,Atletico Madrid,1,Deportivo La Coruna,0,2018-04-01 18:45:00,Deportivo La Coruna,30,20
+296,Deportivo La Coruna,3,Malaga,2,2018-04-06 19:00:00,Deportivo La Coruna,31,23
+297,Athletic Club,2,Deportivo La Coruna,3,2018-04-14 18:45:00,Deportivo La Coruna,32,26
+298,Deportivo La Coruna,0,Sevilla,0,2018-04-17 17:30:00,Deportivo La Coruna,33,27
+299,Leganes,0,Deportivo La Coruna,0,2018-04-20 19:00:00,Deportivo La Coruna,34,28
+300,Deportivo La Coruna,2,Barcelona,4,2018-04-29 18:45:00,Deportivo La Coruna,35,28
+301,Celta de Vigo,1,Deportivo La Coruna,1,2018-05-05 16:30:00,Deportivo La Coruna,36,29
+302,Deportivo La Coruna,2,Villarreal,4,2018-05-12 16:30:00,Deportivo La Coruna,37,29
+303,Valencia,2,Deportivo La Coruna,1,2018-05-20 10:00:00,Deportivo La Coruna,38,29
+304,Deportivo La Coruna,0,Real Madrid,3,2017-08-20 20:15:00,Real Madrid,1,3
+305,Real Madrid,2,Valencia,2,2017-08-27 20:15:00,Real Madrid,2,4
+306,Real Madrid,1,Levante,1,2017-09-09 11:00:00,Real Madrid,3,5
+307,Real Sociedad,1,Real Madrid,3,2017-09-17 18:45:00,Real Madrid,4,8
+308,Real Madrid,0,Real Betis,1,2017-09-20 20:00:00,Real Madrid,5,8
+309,Deportivo Alaves,1,Real Madrid,2,2017-09-23 14:15:00,Real Madrid,6,11
+310,Real Madrid,2,Espanyol,0,2017-10-01 18:45:00,Real Madrid,7,14
+311,Getafe,1,Real Madrid,2,2017-10-14 14:15:00,Real Madrid,8,17
+312,Real Madrid,3,Eibar,0,2017-10-22 18:45:00,Real Madrid,9,20
+313,Girona,2,Real Madrid,1,2017-10-29 15:15:00,Real Madrid,10,20
+314,Real Madrid,3,Las Palmas,0,2017-11-05 19:45:00,Real Madrid,11,23
+315,Atletico Madrid,0,Real Madrid,0,2017-11-18 19:45:00,Real Madrid,12,24
+316,Real Madrid,3,Malaga,2,2017-11-25 15:15:00,Real Madrid,13,27
+317,Athletic Club,0,Real Madrid,0,2017-12-02 19:45:00,Real Madrid,14,28
+318,Real Madrid,5,Sevilla,0,2017-12-09 15:15:00,Real Madrid,15,31
+319,Real Madrid,0,Barcelona,3,2017-12-23 12:00:00,Real Madrid,16,31
+320,Celta de Vigo,2,Real Madrid,2,2018-01-07 19:45:00,Real Madrid,17,32
+321,Real Madrid,0,Villarreal,1,2018-01-13 15:15:00,Real Madrid,18,32
+322,Real Madrid,7,Deportivo La Coruna,1,2018-01-21 15:15:00,Real Madrid,19,35
+323,Valencia,1,Real Madrid,4,2018-01-27 15:15:00,Real Madrid,20,38
+324,Levante,2,Real Madrid,2,2018-02-03 19:45:00,Real Madrid,21,39
+325,Real Madrid,5,Real Sociedad,2,2018-02-10 19:45:00,Real Madrid,22,42
+326,Real Betis,3,Real Madrid,5,2018-02-18 19:45:00,Real Madrid,23,45
+327,Leganes,1,Real Madrid,3,2018-02-21 17:45:00,Real Madrid,24,48
+328,Real Madrid,4,Deportivo Alaves,0,2018-02-24 15:15:00,Real Madrid,25,51
+329,Espanyol,1,Real Madrid,0,2018-02-27 19:00:00,Real Madrid,26,51
+330,Real Madrid,3,Getafe,1,2018-03-03 19:45:00,Real Madrid,27,54
+331,Eibar,1,Real Madrid,2,2018-03-10 12:00:00,Real Madrid,28,57
+332,Real Madrid,6,Girona,3,2018-03-18 19:45:00,Real Madrid,29,60
+333,Las Palmas,0,Real Madrid,3,2018-03-31 16:30:00,Real Madrid,30,63
+334,Real Madrid,1,Atletico Madrid,1,2018-04-08 14:15:00,Real Madrid,31,64
+335,Malaga,1,Real Madrid,2,2018-04-15 18:45:00,Real Madrid,32,67
+336,Real Madrid,1,Athletic Club,1,2018-04-18 18:30:00,Real Madrid,33,68
+337,Real Madrid,2,Leganes,1,2018-04-28 16:30:00,Real Madrid,34,71
+338,Barcelona,2,Real Madrid,2,2018-05-06 18:45:00,Real Madrid,35,72
+339,Sevilla,3,Real Madrid,2,2018-05-09 19:30:00,Real Madrid,36,72
+340,Real Madrid,6,Celta de Vigo,0,2018-05-12 18:45:00,Real Madrid,37,75
+341,Villarreal,2,Real Madrid,2,2018-05-19 18:45:00,Real Madrid,38,76
+342,Levante,1,Villarreal,0,2017-08-21 18:15:00,Villarreal,1,0
+343,Real Sociedad,3,Villarreal,0,2017-08-25 18:15:00,Villarreal,2,0
+344,Villarreal,3,Real Betis,1,2017-09-10 18:45:00,Villarreal,3,3
+345,Deportivo Alaves,0,Villarreal,3,2017-09-17 10:00:00,Villarreal,4,6
+346,Villarreal,0,Espanyol,0,2017-09-21 18:00:00,Villarreal,5,7
+347,Getafe,4,Villarreal,0,2017-09-24 14:15:00,Villarreal,6,7
+348,Villarreal,3,Eibar,0,2017-10-01 16:30:00,Villarreal,7,10
+349,Girona,1,Villarreal,2,2017-10-15 14:15:00,Villarreal,8,13
+350,Villarreal,4,Las Palmas,0,2017-10-22 10:00:00,Villarreal,9,16
+351,Atletico Madrid,1,Villarreal,1,2017-10-28 16:30:00,Villarreal,10,17
+352,Villarreal,2,Malaga,0,2017-11-05 17:30:00,Villarreal,11,20
+353,Athletic Club,1,Villarreal,1,2017-11-19 19:45:00,Villarreal,12,21
+354,Villarreal,2,Sevilla,3,2017-11-26 17:30:00,Villarreal,13,21
+355,Leganes,3,Villarreal,1,2017-12-03 11:00:00,Villarreal,14,21
+356,Villarreal,0,Barcelona,2,2017-12-10 19:45:00,Villarreal,15,21
+357,Celta de Vigo,0,Villarreal,1,2017-12-17 15:15:00,Villarreal,16,24
+358,Valencia,0,Villarreal,1,2017-12-23 15:15:00,Villarreal,17,27
+359,Villarreal,1,Deportivo La Coruna,1,2018-01-07 17:30:00,Villarreal,18,28
+360,Real Madrid,0,Villarreal,1,2018-01-13 15:15:00,Villarreal,19,31
+361,Villarreal,2,Levante,1,2018-01-20 17:30:00,Villarreal,20,34
+362,Villarreal,4,Real Sociedad,2,2018-01-27 19:45:00,Villarreal,21,37
+363,Real Betis,2,Villarreal,1,2018-02-03 15:15:00,Villarreal,22,37
+364,Villarreal,1,Deportivo Alaves,2,2018-02-10 12:00:00,Villarreal,23,37
+365,Espanyol,1,Villarreal,1,2018-02-18 17:30:00,Villarreal,24,38
+366,Villarreal,1,Getafe,0,2018-02-25 11:00:00,Villarreal,25,41
+367,Eibar,1,Villarreal,0,2018-02-28 20:30:00,Villarreal,26,41
+368,Villarreal,0,Girona,2,2018-03-03 12:00:00,Villarreal,27,41
+369,Las Palmas,0,Villarreal,2,2018-03-11 17:30:00,Villarreal,28,44
+370,Villarreal,2,Atletico Madrid,1,2018-03-18 17:30:00,Villarreal,29,47
+371,Malaga,1,Villarreal,0,2018-04-01 16:30:00,Villarreal,30,47
+372,Villarreal,1,Athletic Club,3,2018-04-09 19:00:00,Villarreal,31,47
+373,Sevilla,2,Villarreal,2,2018-04-14 11:00:00,Villarreal,32,48
+374,Villarreal,2,Leganes,1,2018-04-17 19:30:00,Villarreal,33,51
+375,Villarreal,4,Celta de Vigo,1,2018-04-28 18:45:00,Villarreal,34,54
+376,Villarreal,1,Valencia,0,2018-05-05 18:45:00,Villarreal,35,57
+377,Barcelona,5,Villarreal,1,2018-05-09 18:00:00,Villarreal,36,57
+378,Deportivo La Coruna,2,Villarreal,4,2018-05-12 16:30:00,Villarreal,37,60
+379,Villarreal,2,Real Madrid,2,2018-05-19 18:45:00,Villarreal,38,61
+380,Leganes,1,Deportivo Alaves,0,2017-08-18 18:15:00,Deportivo Alaves,1,0
+381,Deportivo Alaves,0,Barcelona,2,2017-08-26 16:15:00,Deportivo Alaves,2,0
+382,Celta de Vigo,1,Deportivo Alaves,0,2017-09-10 16:30:00,Deportivo Alaves,3,0
+383,Deportivo Alaves,0,Villarreal,3,2017-09-17 10:00:00,Deportivo Alaves,4,0
+384,Deportivo La Coruna,1,Deportivo Alaves,0,2017-09-20 19:00:00,Deportivo Alaves,5,0
+385,Deportivo Alaves,1,Real Madrid,2,2017-09-23 14:15:00,Deportivo Alaves,6,0
+386,Levante,0,Deportivo Alaves,2,2017-09-30 16:30:00,Deportivo Alaves,7,3
+387,Deportivo Alaves,0,Real Sociedad,2,2017-10-14 16:30:00,Deportivo Alaves,8,3
+388,Real Betis,2,Deportivo Alaves,0,2017-10-21 14:15:00,Deportivo Alaves,9,3
+389,Deportivo Alaves,1,Valencia,2,2017-10-28 11:00:00,Deportivo Alaves,10,3
+390,Deportivo Alaves,1,Espanyol,0,2017-11-04 17:30:00,Deportivo Alaves,11,6
+391,Getafe,4,Deportivo Alaves,1,2017-11-18 12:00:00,Deportivo Alaves,12,6
+392,Deportivo Alaves,1,Eibar,2,2017-11-25 12:00:00,Deportivo Alaves,13,6
+393,Girona,2,Deportivo Alaves,3,2017-12-04 20:00:00,Deportivo Alaves,14,9
+394,Deportivo Alaves,2,Las Palmas,0,2017-12-08 20:00:00,Deportivo Alaves,15,12
+395,Atletico Madrid,1,Deportivo Alaves,0,2017-12-16 19:45:00,Deportivo Alaves,16,12
+396,Deportivo Alaves,1,Malaga,0,2017-12-21 20:30:00,Deportivo Alaves,17,15
+397,Athletic Club,2,Deportivo Alaves,0,2018-01-07 17:30:00,Deportivo Alaves,18,15
+398,Deportivo Alaves,1,Sevilla,0,2018-01-14 15:15:00,Deportivo Alaves,19,18
+399,Deportivo Alaves,2,Leganes,2,2018-01-21 11:00:00,Deportivo Alaves,20,19
+400,Barcelona,2,Deportivo Alaves,1,2018-01-28 19:45:00,Deportivo Alaves,21,19
+401,Deportivo Alaves,2,Celta de Vigo,1,2018-02-03 17:30:00,Deportivo Alaves,22,22
+402,Villarreal,1,Deportivo Alaves,2,2018-02-10 12:00:00,Deportivo Alaves,23,25
+403,Deportivo Alaves,1,Deportivo La Coruna,0,2018-02-17 17:30:00,Deportivo Alaves,24,28
+404,Real Madrid,4,Deportivo Alaves,0,2018-02-24 15:15:00,Deportivo Alaves,25,28
+405,Deportivo Alaves,1,Levante,0,2018-03-01 20:30:00,Deportivo Alaves,26,31
+406,Real Sociedad,2,Deportivo Alaves,1,2018-03-04 17:30:00,Deportivo Alaves,27,31
+407,Deportivo Alaves,1,Real Betis,3,2018-03-12 20:00:00,Deportivo Alaves,28,31
+408,Valencia,3,Deportivo Alaves,1,2018-03-17 15:15:00,Deportivo Alaves,29,31
+409,Espanyol,0,Deportivo Alaves,0,2018-04-01 10:00:00,Deportivo Alaves,30,32
+410,Deportivo Alaves,2,Getafe,0,2018-04-07 11:00:00,Deportivo Alaves,31,35
+411,Eibar,0,Deportivo Alaves,1,2018-04-15 10:00:00,Deportivo Alaves,32,38
+412,Deportivo Alaves,1,Girona,2,2018-04-19 17:30:00,Deportivo Alaves,33,38
+413,Las Palmas,0,Deportivo Alaves,4,2018-04-22 16:30:00,Deportivo Alaves,34,41
+414,Deportivo Alaves,0,Atletico Madrid,1,2018-04-29 14:15:00,Deportivo Alaves,35,41
+415,Malaga,0,Deportivo Alaves,3,2018-05-06 10:00:00,Deportivo Alaves,36,44
+416,Deportivo Alaves,3,Athletic Club,1,2018-05-12 15:30:00,Deportivo Alaves,37,47
+417,Sevilla,1,Deportivo Alaves,0,2018-05-19 16:30:00,Deportivo Alaves,38,47
+418,Sevilla,1,Espanyol,1,2017-08-19 20:15:00,Sevilla,1,1
+419,Getafe,0,Sevilla,1,2017-08-27 18:15:00,Sevilla,2,4
+420,Sevilla,3,Eibar,0,2017-09-09 16:30:00,Sevilla,3,7
+421,Girona,0,Sevilla,1,2017-09-17 14:15:00,Sevilla,4,10
+422,Sevilla,1,Las Palmas,0,2017-09-20 20:00:00,Sevilla,5,13
+423,Atletico Madrid,2,Sevilla,0,2017-09-23 11:00:00,Sevilla,6,13
+424,Sevilla,2,Malaga,0,2017-09-30 14:15:00,Sevilla,7,16
+425,Athletic Club,1,Sevilla,0,2017-10-14 11:00:00,Sevilla,8,16
+426,Valencia,4,Sevilla,0,2017-10-21 16:30:00,Sevilla,9,16
+427,Sevilla,2,Leganes,1,2017-10-28 20:30:00,Sevilla,10,19
+428,Barcelona,2,Sevilla,1,2017-11-04 19:45:00,Sevilla,11,19
+429,Sevilla,2,Celta de Vigo,1,2017-11-18 17:30:00,Sevilla,12,22
+430,Villarreal,2,Sevilla,3,2017-11-26 17:30:00,Sevilla,13,25
+431,Sevilla,2,Deportivo La Coruna,0,2017-12-02 17:30:00,Sevilla,14,28
+432,Real Madrid,5,Sevilla,0,2017-12-09 15:15:00,Sevilla,15,28
+433,Sevilla,0,Levante,0,2017-12-15 20:00:00,Sevilla,16,29
+434,Real Sociedad,3,Sevilla,1,2017-12-20 20:30:00,Sevilla,17,29
+435,Sevilla,3,Real Betis,5,2018-01-06 19:45:00,Sevilla,18,29
+436,Deportivo Alaves,1,Sevilla,0,2018-01-14 15:15:00,Sevilla,19,29
+437,Espanyol,0,Sevilla,3,2018-01-20 12:00:00,Sevilla,20,32
+438,Sevilla,1,Getafe,1,2018-01-28 17:30:00,Sevilla,21,33
+439,Eibar,5,Sevilla,1,2018-02-03 12:00:00,Sevilla,22,33
+440,Sevilla,1,Girona,0,2018-02-11 11:00:00,Sevilla,23,36
+441,Las Palmas,1,Sevilla,2,2018-02-17 12:00:00,Sevilla,24,39
+442,Sevilla,2,Atletico Madrid,5,2018-02-25 19:45:00,Sevilla,25,39
+443,Malaga,0,Sevilla,1,2018-02-28 18:30:00,Sevilla,26,42
+444,Sevilla,2,Athletic Club,0,2018-03-03 15:15:00,Sevilla,27,45
+445,Sevilla,0,Valencia,2,2018-03-10 15:15:00,Sevilla,28,45
+446,Leganes,2,Sevilla,1,2018-03-18 11:00:00,Sevilla,29,45
+447,Sevilla,2,Barcelona,2,2018-03-31 18:45:00,Sevilla,30,46
+448,Celta de Vigo,4,Sevilla,0,2018-04-07 14:15:00,Sevilla,31,46
+449,Sevilla,2,Villarreal,2,2018-04-14 11:00:00,Sevilla,32,47
+450,Deportivo La Coruna,0,Sevilla,0,2018-04-17 17:30:00,Sevilla,33,48
+451,Levante,2,Sevilla,1,2018-04-27 19:00:00,Sevilla,34,48
+452,Sevilla,1,Real Sociedad,0,2018-05-04 19:00:00,Sevilla,35,51
+453,Sevilla,3,Real Madrid,2,2018-05-09 19:30:00,Sevilla,36,54
+454,Real Betis,2,Sevilla,2,2018-05-12 15:30:00,Sevilla,37,55
+455,Sevilla,1,Deportivo Alaves,0,2018-05-19 16:30:00,Sevilla,38,58
+456,Athletic Club,0,Getafe,0,2017-08-20 16:15:00,Getafe,1,1
+457,Getafe,0,Sevilla,1,2017-08-27 18:15:00,Getafe,2,1
+458,Leganes,1,Getafe,2,2017-09-08 19:00:00,Getafe,3,4
+459,Getafe,1,Barcelona,2,2017-09-16 14:15:00,Getafe,4,4
+460,Celta de Vigo,1,Getafe,1,2017-09-21 19:00:00,Getafe,5,5
+461,Getafe,4,Villarreal,0,2017-09-24 14:15:00,Getafe,6,8
+462,Deportivo La Coruna,2,Getafe,1,2017-09-30 11:00:00,Getafe,7,8
+463,Getafe,1,Real Madrid,2,2017-10-14 14:15:00,Getafe,8,8
+464,Levante,1,Getafe,1,2017-10-21 11:00:00,Getafe,9,9
+465,Getafe,2,Real Sociedad,1,2017-10-29 11:00:00,Getafe,10,12
+466,Real Betis,2,Getafe,2,2017-11-03 20:00:00,Getafe,11,13
+467,Getafe,4,Deportivo Alaves,1,2017-11-18 12:00:00,Getafe,12,16
+468,Espanyol,1,Getafe,0,2017-11-27 20:00:00,Getafe,13,16
+469,Getafe,1,Valencia,0,2017-12-03 15:15:00,Getafe,14,19
+470,Getafe,0,Eibar,0,2017-12-09 12:00:00,Getafe,15,20
+471,Girona,1,Getafe,0,2017-12-17 11:00:00,Getafe,16,20
+472,Getafe,2,Las Palmas,0,2017-12-20 18:30:00,Getafe,17,23
+473,Atletico Madrid,2,Getafe,0,2018-01-06 12:00:00,Getafe,18,23
+474,Getafe,1,Malaga,0,2018-01-12 20:00:00,Getafe,19,26
+475,Getafe,2,Athletic Club,2,2018-01-19 20:00:00,Getafe,20,27
+476,Sevilla,1,Getafe,1,2018-01-28 17:30:00,Getafe,21,28
+477,Getafe,0,Leganes,0,2018-02-04 11:00:00,Getafe,22,29
+478,Barcelona,0,Getafe,0,2018-02-11 15:15:00,Getafe,23,30
+479,Getafe,3,Celta de Vigo,0,2018-02-19 20:00:00,Getafe,24,33
+480,Villarreal,1,Getafe,0,2018-02-25 11:00:00,Getafe,25,33
+481,Getafe,3,Deportivo La Coruna,0,2018-02-28 18:30:00,Getafe,26,36
+482,Real Madrid,3,Getafe,1,2018-03-03 19:45:00,Getafe,27,36
+483,Getafe,0,Levante,1,2018-03-10 17:30:00,Getafe,28,36
+484,Real Sociedad,1,Getafe,2,2018-03-17 17:30:00,Getafe,29,39
+485,Getafe,0,Real Betis,1,2018-04-02 19:00:00,Getafe,30,39
+486,Deportivo Alaves,2,Getafe,0,2018-04-07 11:00:00,Getafe,31,39
+487,Getafe,1,Espanyol,0,2018-04-15 16:30:00,Getafe,32,40
+488,Valencia,1,Getafe,2,2018-04-18 16:30:00,Getafe,33,43
+489,Eibar,0,Getafe,1,2018-04-21 11:00:00,Getafe,34,46
+490,Getafe,1,Girona,1,2018-04-29 10:00:00,Getafe,35,47
+491,Las Palmas,0,Getafe,1,2018-05-06 16:30:00,Getafe,36,50
+492,Getafe,0,Atletico Madrid,1,2018-05-12 15:30:00,Getafe,37,50
+493,Malaga,0,Getafe,1,2018-05-19 16:30:00,Getafe,38,53
+494,Malaga,0,Eibar,1,2017-08-21 20:00:00,Malaga,1,0
+495,Girona,1,Malaga,0,2017-08-26 18:15:00,Malaga,2,0
+496,Malaga,1,Las Palmas,3,2017-09-11 19:00:00,Malaga,3,0
+497,Atletico Madrid,1,Malaga,0,2017-09-16 18:45:00,Malaga,4,0
+498,Valencia,5,Malaga,0,2017-09-19 18:00:00,Malaga,5,0
+499,Malaga,3,Athletic Club,3,2017-09-23 16:30:00,Malaga,6,1
+500,Sevilla,2,Malaga,0,2017-09-30 14:15:00,Malaga,7,1
+501,Malaga,0,Leganes,2,2017-10-15 16:30:00,Malaga,8,1
+502,Barcelona,2,Malaga,0,2017-10-21 18:45:00,Malaga,9,1
+503,Malaga,2,Celta de Vigo,1,2017-10-29 19:45:00,Malaga,10,4
+504,Villarreal,2,Malaga,0,2017-11-05 17:30:00,Malaga,11,4
+505,Malaga,3,Deportivo La Coruna,2,2017-11-19 11:00:00,Malaga,12,7
+506,Real Madrid,3,Malaga,2,2017-11-25 15:15:00,Malaga,13,7
+507,Malaga,0,Levante,0,2017-12-01 20:00:00,Malaga,14,8
+508,Real Sociedad,0,Malaga,2,2017-12-10 11:00:00,Malaga,15,11
+509,Malaga,0,Real Betis,2,2017-12-18 20:00:00,Malaga,16,11
+510,Deportivo Alaves,1,Malaga,0,2017-12-21 20:30:00,Malaga,17,11
+511,Malaga,0,Espanyol,1,2018-01-08 20:00:00,Malaga,18,11
+512,Getafe,1,Malaga,0,2018-01-12 20:00:00,Malaga,19,11
+513,Eibar,1,Malaga,1,2018-01-22 20:00:00,Malaga,20,12
+514,Malaga,0,Girona,0,2018-01-27 17:30:00,Malaga,21,13
+515,Las Palmas,1,Malaga,0,2018-02-05 20:00:00,Malaga,22,13
+516,Malaga,0,Atletico Madrid,1,2018-02-10 15:15:00,Malaga,23,13
+517,Malaga,1,Valencia,2,2018-02-17 19:45:00,Malaga,24,13
+518,Athletic Club,2,Malaga,1,2018-02-25 15:15:00,Malaga,25,13
+519,Malaga,0,Sevilla,1,2018-02-28 18:30:00,Malaga,26,13
+520,Leganes,2,Malaga,0,2018-03-03 17:30:00,Malaga,27,13
+521,Malaga,0,Barcelona,2,2018-03-10 19:45:00,Malaga,28,13
+522,Celta de Vigo,0,Malaga,0,2018-03-18 17:30:00,Malaga,29,14
+523,Malaga,1,Villarreal,0,2018-04-01 16:30:00,Malaga,30,17
+524,Deportivo La Coruna,3,Malaga,2,2018-04-06 19:00:00,Malaga,31,17
+525,Malaga,1,Real Madrid,2,2018-04-15 18:45:00,Malaga,32,17
+526,Levante,1,Malaga,0,2018-04-19 19:30:00,Malaga,33,17
+527,Malaga,2,Real Sociedad,0,2018-04-22 14:15:00,Malaga,34,20
+528,Real Betis,2,Malaga,1,2018-04-30 19:00:00,Malaga,35,20
+529,Malaga,0,Deportivo Alaves,3,2018-05-06 10:00:00,Malaga,36,20
+530,Espanyol,4,Malaga,1,2018-05-13 14:15:00,Malaga,37,20
+531,Malaga,0,Getafe,1,2018-05-19 16:30:00,Malaga,38,20
+532,Valencia,1,Las Palmas,0,2017-08-18 20:15:00,Las Palmas,1,0
+533,Las Palmas,1,Atletico Madrid,5,2017-08-26 20:15:00,Las Palmas,2,0
+534,Malaga,1,Las Palmas,3,2017-09-11 19:00:00,Las Palmas,3,3
+535,Las Palmas,1,Athletic Club,0,2017-09-17 16:30:00,Las Palmas,4,6
+536,Sevilla,1,Las Palmas,0,2017-09-20 20:00:00,Las Palmas,5,6
+537,Las Palmas,0,Leganes,2,2017-09-24 16:30:00,Las Palmas,6,6
+538,Barcelona,3,Las Palmas,0,2017-10-01 14:15:00,Las Palmas,7,6
+539,Las Palmas,2,Celta de Vigo,5,2017-10-16 19:00:00,Las Palmas,8,6
+540,Villarreal,4,Las Palmas,0,2017-10-22 10:00:00,Las Palmas,9,6
+541,Las Palmas,1,Deportivo La Coruna,3,2017-10-30 20:00:00,Las Palmas,10,6
+542,Real Madrid,3,Las Palmas,0,2017-11-05 19:45:00,Las Palmas,11,6
+543,Las Palmas,0,Levante,2,2017-11-19 17:30:00,Las Palmas,12,6
+544,Real Sociedad,2,Las Palmas,2,2017-11-26 15:15:00,Las Palmas,13,7
+545,Las Palmas,1,Real Betis,0,2017-12-03 19:45:00,Las Palmas,14,10
+546,Deportivo Alaves,2,Las Palmas,0,2017-12-08 20:00:00,Las Palmas,15,10
+547,Las Palmas,2,Espanyol,2,2017-12-17 17:30:00,Las Palmas,16,11
+548,Getafe,2,Las Palmas,0,2017-12-20 18:30:00,Las Palmas,17,11
+549,Las Palmas,1,Eibar,2,2018-01-06 17:30:00,Las Palmas,18,11
+550,Girona,6,Las Palmas,0,2018-01-13 12:00:00,Las Palmas,19,11
+551,Las Palmas,2,Valencia,1,2018-01-20 19:45:00,Las Palmas,20,14
+552,Atletico Madrid,3,Las Palmas,0,2018-01-28 15:15:00,Las Palmas,21,14
+553,Las Palmas,1,Malaga,0,2018-02-05 20:00:00,Las Palmas,22,17
+554,Athletic Club,0,Las Palmas,0,2018-02-09 20:00:00,Las Palmas,23,18
+555,Las Palmas,1,Sevilla,2,2018-02-17 12:00:00,Las Palmas,24,18
+556,Leganes,0,Las Palmas,0,2018-02-24 17:30:00,Las Palmas,25,19
+557,Las Palmas,1,Barcelona,1,2018-03-01 20:00:00,Las Palmas,26,20
+558,Celta de Vigo,2,Las Palmas,1,2018-03-05 20:00:00,Las Palmas,27,20
+559,Las Palmas,0,Villarreal,2,2018-03-11 17:30:00,Las Palmas,28,20
+560,Deportivo La Coruna,1,Las Palmas,1,2018-03-17 12:00:00,Las Palmas,29,21
+561,Las Palmas,0,Real Madrid,3,2018-03-31 16:30:00,Las Palmas,30,21
+562,Levante,2,Las Palmas,1,2018-04-08 10:00:00,Las Palmas,31,21
+563,Las Palmas,0,Real Sociedad,1,2018-04-14 16:30:00,Las Palmas,32,21
+564,Real Betis,1,Las Palmas,0,2018-04-19 19:30:00,Las Palmas,33,21
+565,Las Palmas,0,Deportivo Alaves,4,2018-04-22 16:30:00,Las Palmas,34,21
+566,Espanyol,1,Las Palmas,1,2018-04-28 11:00:00,Las Palmas,35,22
+567,Las Palmas,0,Getafe,1,2018-05-06 16:30:00,Las Palmas,36,22
+568,Eibar,1,Las Palmas,0,2018-05-12 15:30:00,Las Palmas,37,22
+569,Las Palmas,1,Girona,2,2018-05-19 16:30:00,Las Palmas,38,22
+570,Girona,2,Atletico Madrid,2,2017-08-19 18:15:00,Girona,1,1
+571,Girona,1,Malaga,0,2017-08-26 18:15:00,Girona,2,4
+572,Athletic Club,2,Girona,0,2017-09-10 14:15:00,Girona,3,4
+573,Girona,0,Sevilla,1,2017-09-17 14:15:00,Girona,4,4
+574,Leganes,0,Girona,0,2017-09-20 18:00:00,Girona,5,5
+575,Girona,0,Barcelona,3,2017-09-23 18:45:00,Girona,6,5
+576,Celta de Vigo,3,Girona,3,2017-09-29 19:00:00,Girona,7,6
+577,Girona,1,Villarreal,2,2017-10-15 14:15:00,Girona,8,6
+578,Deportivo La Coruna,1,Girona,2,2017-10-23 19:00:00,Girona,9,9
+579,Girona,2,Real Madrid,1,2017-10-29 15:15:00,Girona,10,12
+580,Levante,1,Girona,2,2017-11-05 11:00:00,Girona,11,15
+581,Girona,1,Real Sociedad,1,2017-11-17 20:00:00,Girona,12,16
+582,Real Betis,2,Girona,2,2017-11-25 17:30:00,Girona,13,17
+583,Girona,2,Deportivo Alaves,3,2017-12-04 20:00:00,Girona,14,17
+584,Espanyol,0,Girona,1,2017-12-11 20:00:00,Girona,15,20
+585,Girona,1,Getafe,0,2017-12-17 11:00:00,Girona,16,23
+586,Eibar,4,Girona,1,2017-12-21 18:30:00,Girona,17,23
+587,Valencia,2,Girona,1,2018-01-06 15:15:00,Girona,18,23
+588,Girona,6,Las Palmas,0,2018-01-13 12:00:00,Girona,19,26
+589,Atletico Madrid,1,Girona,1,2018-01-20 15:15:00,Girona,20,27
+590,Malaga,0,Girona,0,2018-01-27 17:30:00,Girona,21,28
+591,Girona,2,Athletic Club,0,2018-02-04 17:30:00,Girona,22,31
+592,Sevilla,1,Girona,0,2018-02-11 11:00:00,Girona,23,31
+593,Girona,3,Leganes,0,2018-02-16 20:00:00,Girona,24,34
+594,Barcelona,6,Girona,1,2018-02-24 19:45:00,Girona,25,34
+595,Girona,1,Celta de Vigo,0,2018-02-27 20:30:00,Girona,26,37
+596,Villarreal,0,Girona,2,2018-03-03 12:00:00,Girona,27,40
+597,Girona,2,Deportivo La Coruna,0,2018-03-09 20:00:00,Girona,28,43
+598,Real Madrid,6,Girona,3,2018-03-18 19:45:00,Girona,29,43
+599,Girona,1,Levante,1,2018-03-31 11:00:00,Girona,30,44
+600,Real Sociedad,5,Girona,0,2018-04-08 16:30:00,Girona,31,44
+601,Girona,0,Real Betis,1,2018-04-13 19:00:00,Girona,32,44
+602,Deportivo Alaves,1,Girona,2,2018-04-19 17:30:00,Girona,33,47
+603,Girona,0,Espanyol,2,2018-04-22 10:00:00,Girona,34,47
+604,Getafe,1,Girona,1,2018-04-29 10:00:00,Girona,35,48
+605,Girona,1,Eibar,4,2018-05-05 11:00:00,Girona,36,48
+606,Girona,0,Valencia,1,2018-05-12 15:30:00,Girona,37,48
+607,Las Palmas,1,Girona,2,2018-05-19 16:30:00,Girona,38,51
+608,Barcelona,2,Real Betis,0,2017-08-20 18:15:00,Real Betis,1,0
+609,Real Betis,2,Celta de Vigo,1,2017-08-25 20:00:00,Real Betis,2,3
+610,Villarreal,3,Real Betis,1,2017-09-10 18:45:00,Real Betis,3,3
+611,Real Betis,2,Deportivo La Coruna,1,2017-09-16 16:30:00,Real Betis,4,6
+612,Real Madrid,0,Real Betis,1,2017-09-20 20:00:00,Real Betis,5,9
+613,Real Betis,4,Levante,0,2017-09-25 19:00:00,Real Betis,6,12
+614,Real Sociedad,4,Real Betis,4,2017-10-01 10:00:00,Real Betis,7,13
+615,Real Betis,3,Valencia,6,2017-10-15 18:45:00,Real Betis,8,13
+616,Real Betis,2,Deportivo Alaves,0,2017-10-21 14:15:00,Real Betis,9,16
+617,Espanyol,1,Real Betis,0,2017-10-30 20:00:00,Real Betis,10,16
+618,Real Betis,2,Getafe,2,2017-11-03 20:00:00,Real Betis,11,17
+619,Eibar,5,Real Betis,0,2017-11-20 20:00:00,Real Betis,12,17
+620,Real Betis,2,Girona,2,2017-11-25 17:30:00,Real Betis,13,18
+621,Las Palmas,1,Real Betis,0,2017-12-03 19:45:00,Real Betis,14,18
+622,Real Betis,0,Atletico Madrid,1,2017-12-10 15:15:00,Real Betis,15,18
+623,Malaga,0,Real Betis,2,2017-12-18 20:00:00,Real Betis,16,21
+624,Real Betis,0,Athletic Club,2,2017-12-22 18:30:00,Real Betis,17,21
+625,Sevilla,3,Real Betis,5,2018-01-06 19:45:00,Real Betis,18,24
+626,Real Betis,3,Leganes,2,2018-01-15 20:00:00,Real Betis,19,27
+627,Real Betis,0,Barcelona,5,2018-01-21 19:45:00,Real Betis,20,27
+628,Celta de Vigo,3,Real Betis,2,2018-01-29 20:00:00,Real Betis,21,27
+629,Real Betis,2,Villarreal,1,2018-02-03 15:15:00,Real Betis,22,30
+630,Deportivo La Coruna,0,Real Betis,1,2018-02-12 20:00:00,Real Betis,23,33
+631,Real Betis,3,Real Madrid,5,2018-02-18 19:45:00,Real Betis,24,33
+632,Levante,0,Real Betis,2,2018-02-26 20:00:00,Real Betis,25,36
+633,Real Betis,0,Real Sociedad,0,2018-03-01 18:30:00,Real Betis,26,37
+634,Valencia,2,Real Betis,0,2018-03-04 19:45:00,Real Betis,27,37
+635,Deportivo Alaves,1,Real Betis,3,2018-03-12 20:00:00,Real Betis,28,40
+636,Real Betis,3,Espanyol,0,2018-03-17 19:45:00,Real Betis,29,43
+637,Getafe,0,Real Betis,1,2018-04-02 19:00:00,Real Betis,30,46
+638,Real Betis,2,Eibar,0,2018-04-07 16:30:00,Real Betis,31,49
+639,Girona,0,Real Betis,1,2018-04-13 19:00:00,Real Betis,32,52
+640,Real Betis,1,Las Palmas,0,2018-04-19 19:30:00,Real Betis,33,55
+641,Atletico Madrid,0,Real Betis,0,2018-04-22 18:45:00,Real Betis,34,56
+642,Real Betis,2,Malaga,1,2018-04-30 19:00:00,Real Betis,35,59
+643,Athletic Club,2,Real Betis,0,2018-05-05 14:15:00,Real Betis,36,59
+644,Real Betis,2,Sevilla,2,2018-05-12 15:30:00,Real Betis,37,60
+645,Leganes,3,Real Betis,2,2018-05-19 14:15:00,Real Betis,38,60
+646,Leganes,1,Deportivo Alaves,0,2017-08-18 18:15:00,Leganes,1,3
+647,Espanyol,0,Leganes,1,2017-08-27 16:15:00,Leganes,2,6
+648,Leganes,1,Getafe,2,2017-09-08 19:00:00,Leganes,3,6
+649,Eibar,1,Leganes,0,2017-09-15 19:00:00,Leganes,4,6
+650,Leganes,0,Girona,0,2017-09-20 18:00:00,Leganes,5,7
+651,Las Palmas,0,Leganes,2,2017-09-24 16:30:00,Leganes,6,10
+652,Leganes,0,Atletico Madrid,0,2017-09-30 18:45:00,Leganes,7,11
+653,Malaga,0,Leganes,2,2017-10-15 16:30:00,Leganes,8,14
+654,Leganes,1,Athletic Club,0,2017-10-22 16:30:00,Leganes,9,17
+655,Sevilla,2,Leganes,1,2017-10-28 20:30:00,Leganes,10,17
+656,Valencia,3,Leganes,0,2017-11-04 12:00:00,Leganes,11,17
+657,Leganes,0,Barcelona,3,2017-11-18 15:15:00,Leganes,12,17
+658,Celta de Vigo,1,Leganes,0,2017-11-24 20:00:00,Leganes,13,17
+659,Leganes,3,Villarreal,1,2017-12-03 11:00:00,Leganes,14,20
+660,Deportivo La Coruna,1,Leganes,0,2017-12-09 17:30:00,Leganes,15,20
+661,Levante,0,Leganes,0,2017-12-19 20:30:00,Leganes,16,21
+662,Leganes,1,Real Sociedad,0,2018-01-07 11:00:00,Leganes,17,24
+663,Real Betis,3,Leganes,2,2018-01-15 20:00:00,Leganes,18,24
+664,Deportivo Alaves,2,Leganes,2,2018-01-21 11:00:00,Leganes,19,25
+665,Leganes,3,Espanyol,2,2018-01-28 11:00:00,Leganes,20,28
+666,Getafe,0,Leganes,0,2018-02-04 11:00:00,Leganes,21,29
+667,Leganes,0,Eibar,1,2018-02-10 17:30:00,Leganes,22,29
+668,Girona,3,Leganes,0,2018-02-16 20:00:00,Leganes,23,29
+669,Leganes,1,Real Madrid,3,2018-02-21 17:45:00,Leganes,24,29
+670,Leganes,0,Las Palmas,0,2018-02-24 17:30:00,Leganes,25,30
+671,Atletico Madrid,4,Leganes,0,2018-02-28 20:30:00,Leganes,26,30
+672,Leganes,2,Malaga,0,2018-03-03 17:30:00,Leganes,27,33
+673,Athletic Club,2,Leganes,0,2018-03-11 19:45:00,Leganes,28,33
+674,Leganes,2,Sevilla,1,2018-03-18 11:00:00,Leganes,29,36
+675,Leganes,0,Valencia,1,2018-04-01 14:15:00,Leganes,30,36
+676,Barcelona,3,Leganes,1,2018-04-07 18:45:00,Leganes,31,36
+677,Leganes,1,Celta de Vigo,0,2018-04-14 16:30:00,Leganes,32,39
+678,Villarreal,2,Leganes,1,2018-04-17 19:30:00,Leganes,33,39
+679,Leganes,0,Deportivo La Coruna,0,2018-04-20 19:00:00,Leganes,34,40
+680,Real Madrid,2,Leganes,1,2018-04-28 16:30:00,Leganes,35,40
+681,Leganes,0,Levante,3,2018-05-07 19:00:00,Leganes,36,40
+682,Real Sociedad,3,Leganes,2,2018-05-12 13:15:00,Leganes,37,40
+683,Leganes,3,Real Betis,2,2018-05-19 14:15:00,Leganes,38,43
+684,Celta de Vigo,2,Real Sociedad,3,2017-08-19 16:15:00,Celta de Vigo,1,0
+685,Real Betis,2,Celta de Vigo,1,2017-08-25 20:00:00,Celta de Vigo,2,0
+686,Celta de Vigo,1,Deportivo Alaves,0,2017-09-10 16:30:00,Celta de Vigo,3,3
+687,Espanyol,2,Celta de Vigo,1,2017-09-18 19:00:00,Celta de Vigo,4,3
+688,Celta de Vigo,1,Getafe,1,2017-09-21 19:00:00,Celta de Vigo,5,4
+689,Eibar,0,Celta de Vigo,4,2017-09-24 16:30:00,Celta de Vigo,6,7
+690,Celta de Vigo,3,Girona,3,2017-09-29 19:00:00,Celta de Vigo,7,8
+691,Las Palmas,2,Celta de Vigo,5,2017-10-16 19:00:00,Celta de Vigo,8,11
+692,Celta de Vigo,0,Atletico Madrid,1,2017-10-22 14:15:00,Celta de Vigo,9,11
+693,Malaga,2,Celta de Vigo,1,2017-10-29 19:45:00,Celta de Vigo,10,11
+694,Celta de Vigo,3,Athletic Club,1,2017-11-05 15:15:00,Celta de Vigo,11,14
+695,Sevilla,2,Celta de Vigo,1,2017-11-18 17:30:00,Celta de Vigo,12,14
+696,Celta de Vigo,1,Leganes,0,2017-11-24 20:00:00,Celta de Vigo,13,17
+697,Barcelona,2,Celta de Vigo,2,2017-12-02 12:00:00,Celta de Vigo,14,18
+698,Valencia,2,Celta de Vigo,1,2017-12-09 19:45:00,Celta de Vigo,15,18
+699,Celta de Vigo,0,Villarreal,1,2017-12-17 15:15:00,Celta de Vigo,16,18
+700,Deportivo La Coruna,1,Celta de Vigo,3,2017-12-23 17:30:00,Celta de Vigo,17,21
+701,Celta de Vigo,2,Real Madrid,2,2018-01-07 19:45:00,Celta de Vigo,18,22
+702,Levante,0,Celta de Vigo,1,2018-01-14 11:00:00,Celta de Vigo,19,25
+703,Real Sociedad,1,Celta de Vigo,2,2018-01-21 17:30:00,Celta de Vigo,20,28
+704,Celta de Vigo,3,Real Betis,2,2018-01-29 20:00:00,Celta de Vigo,21,31
+705,Deportivo Alaves,2,Celta de Vigo,1,2018-02-03 17:30:00,Celta de Vigo,22,31
+706,Celta de Vigo,2,Espanyol,2,2018-02-11 17:30:00,Celta de Vigo,23,32
+707,Getafe,3,Celta de Vigo,0,2018-02-19 20:00:00,Celta de Vigo,24,32
+708,Celta de Vigo,2,Eibar,0,2018-02-24 12:00:00,Celta de Vigo,25,35
+709,Girona,1,Celta de Vigo,0,2018-02-27 20:30:00,Celta de Vigo,26,35
+710,Celta de Vigo,2,Las Palmas,1,2018-03-05 20:00:00,Celta de Vigo,27,38
+711,Atletico Madrid,3,Celta de Vigo,0,2018-03-11 15:15:00,Celta de Vigo,28,38
+712,Celta de Vigo,0,Malaga,0,2018-03-18 17:30:00,Celta de Vigo,29,39
+713,Athletic Club,1,Celta de Vigo,1,2018-03-31 14:15:00,Celta de Vigo,30,40
+714,Celta de Vigo,4,Sevilla,0,2018-04-07 14:15:00,Celta de Vigo,31,43
+715,Leganes,1,Celta de Vigo,0,2018-04-14 16:30:00,Celta de Vigo,32,43
+716,Celta de Vigo,2,Barcelona,2,2018-04-17 19:00:00,Celta de Vigo,33,44
+717,Celta de Vigo,1,Valencia,1,2018-04-21 14:15:00,Celta de Vigo,34,45
+718,Villarreal,4,Celta de Vigo,1,2018-04-28 18:45:00,Celta de Vigo,35,45
+719,Celta de Vigo,1,Deportivo La Coruna,1,2018-05-05 16:30:00,Celta de Vigo,36,46
+720,Real Madrid,6,Celta de Vigo,0,2018-05-12 18:45:00,Celta de Vigo,37,46
+721,Celta de Vigo,4,Levante,2,2018-05-19 11:00:00,Celta de Vigo,38,49
+722,Levante,1,Villarreal,0,2017-08-21 18:15:00,Levante,1,3
+723,Levante,2,Deportivo La Coruna,2,2017-08-26 18:15:00,Levante,2,4
+724,Real Madrid,1,Levante,1,2017-09-09 11:00:00,Levante,3,5
+725,Levante,1,Valencia,1,2017-09-16 11:00:00,Levante,4,6
+726,Levante,3,Real Sociedad,0,2017-09-21 20:00:00,Levante,5,9
+727,Real Betis,4,Levante,0,2017-09-25 19:00:00,Levante,6,9
+728,Levante,0,Deportivo Alaves,2,2017-09-30 16:30:00,Levante,7,9
+729,Espanyol,0,Levante,0,2017-10-13 19:00:00,Levante,8,10
+730,Levante,1,Getafe,1,2017-10-21 11:00:00,Levante,9,11
+731,Eibar,2,Levante,2,2017-10-29 17:30:00,Levante,10,12
+732,Levante,1,Girona,2,2017-11-05 11:00:00,Levante,11,12
+733,Las Palmas,0,Levante,2,2017-11-19 17:30:00,Levante,12,15
+734,Levante,0,Atletico Madrid,5,2017-11-25 19:45:00,Levante,13,15
+735,Malaga,0,Levante,0,2017-12-01 20:00:00,Levante,14,16
+736,Levante,1,Athletic Club,2,2017-12-10 17:30:00,Levante,15,16
+737,Sevilla,0,Levante,0,2017-12-15 20:00:00,Levante,16,17
+738,Levante,0,Leganes,0,2017-12-19 20:30:00,Levante,17,18
+739,Barcelona,3,Levante,0,2018-01-07 15:15:00,Levante,18,18
+740,Levante,0,Celta de Vigo,1,2018-01-14 11:00:00,Levante,19,18
+741,Villarreal,2,Levante,1,2018-01-20 17:30:00,Levante,20,18
+742,Deportivo La Coruna,2,Levante,2,2018-01-27 12:00:00,Levante,21,19
+743,Levante,2,Real Madrid,2,2018-02-03 19:45:00,Levante,22,20
+744,Valencia,3,Levante,1,2018-02-11 19:45:00,Levante,23,20
+745,Real Sociedad,3,Levante,0,2018-02-18 11:00:00,Levante,24,20
+746,Levante,0,Real Betis,2,2018-02-26 20:00:00,Levante,25,20
+747,Deportivo Alaves,1,Levante,0,2018-03-01 20:30:00,Levante,26,20
+748,Levante,1,Espanyol,1,2018-03-04 11:00:00,Levante,27,21
+749,Getafe,0,Levante,1,2018-03-10 17:30:00,Levante,28,24
+750,Levante,2,Eibar,1,2018-03-16 20:00:00,Levante,29,27
+751,Girona,1,Levante,1,2018-03-31 11:00:00,Levante,30,28
+752,Levante,2,Las Palmas,1,2018-04-08 10:00:00,Levante,31,31
+753,Atletico Madrid,3,Levante,0,2018-04-15 14:15:00,Levante,32,31
+754,Levante,1,Malaga,0,2018-04-19 19:30:00,Levante,33,34
+755,Athletic Club,1,Levante,3,2018-04-23 19:00:00,Levante,34,37
+756,Levante,2,Sevilla,1,2018-04-27 19:00:00,Levante,35,40
+757,Leganes,0,Levante,3,2018-05-07 19:00:00,Levante,36,43
+758,Levante,5,Barcelona,4,2018-05-13 18:45:00,Levante,37,46
+759,Celta de Vigo,4,Levante,2,2018-05-19 11:00:00,Levante,38,46

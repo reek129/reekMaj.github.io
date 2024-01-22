@@ -1,0 +1,761 @@
+,home_team,home_goals,away_team,away_goals,date2,team,week,points
+0,Chelsea,2,Burnley,3,2017-08-12 14:00:00,Burnley,1,3
+1,Burnley,0,West Bromwich Albion,1,2017-08-19 14:00:00,Burnley,2,3
+2,Tottenham Hotspur,1,Burnley,1,2017-08-27 15:00:00,Burnley,3,4
+3,Burnley,1,Crystal Palace,0,2017-09-10 12:30:00,Burnley,4,7
+4,Liverpool,1,Burnley,1,2017-09-16 14:00:00,Burnley,5,8
+5,Burnley,0,Huddersfield Town,0,2017-09-23 14:00:00,Burnley,6,9
+6,Everton,0,Burnley,1,2017-10-01 13:15:00,Burnley,7,12
+7,Burnley,1,West Ham United,1,2017-10-14 14:00:00,Burnley,8,13
+8,Manchester City,3,Burnley,0,2017-10-21 14:00:00,Burnley,9,13
+9,Burnley,1,Newcastle United,0,2017-10-30 20:00:00,Burnley,10,16
+10,Southampton,0,Burnley,1,2017-11-04 15:00:00,Burnley,11,19
+11,Burnley,2,Swansea City,0,2017-11-18 15:00:00,Burnley,12,22
+12,Burnley,0,Arsenal,1,2017-11-26 14:00:00,Burnley,13,22
+13,AFC Bournemouth,1,Burnley,2,2017-11-29 19:45:00,Burnley,14,25
+14,Leicester City,1,Burnley,0,2017-12-02 15:00:00,Burnley,15,25
+15,Burnley,1,Watford,0,2017-12-09 15:00:00,Burnley,16,28
+16,Burnley,1,Stoke City,0,2017-12-12 19:45:00,Burnley,17,31
+17,Brighton & Hove Albion,0,Burnley,0,2017-12-16 15:00:00,Burnley,18,32
+18,Burnley,0,Tottenham Hotspur,3,2017-12-23 17:30:00,Burnley,19,32
+19,Manchester United,2,Burnley,2,2017-12-26 15:00:00,Burnley,20,33
+20,Huddersfield Town,0,Burnley,0,2017-12-30 15:00:00,Burnley,21,34
+21,Burnley,1,Liverpool,2,2018-01-01 15:00:00,Burnley,22,34
+22,Crystal Palace,1,Burnley,0,2018-01-13 15:00:00,Burnley,23,34
+23,Burnley,0,Manchester United,1,2018-01-20 15:00:00,Burnley,24,34
+24,Newcastle United,1,Burnley,1,2018-01-31 19:45:00,Burnley,25,35
+25,Burnley,1,Manchester City,1,2018-02-03 12:30:00,Burnley,26,36
+26,Swansea City,1,Burnley,0,2018-02-10 15:00:00,Burnley,27,36
+27,Burnley,1,Southampton,1,2018-02-24 15:00:00,Burnley,28,37
+28,Burnley,2,Everton,1,2018-03-03 12:30:00,Burnley,29,40
+29,West Ham United,0,Burnley,3,2018-03-10 15:00:00,Burnley,30,43
+30,West Bromwich Albion,1,Burnley,2,2018-03-31 14:00:00,Burnley,31,46
+31,Watford,1,Burnley,2,2018-04-07 14:00:00,Burnley,32,49
+32,Burnley,2,Leicester City,1,2018-04-14 14:00:00,Burnley,33,52
+33,Burnley,1,Chelsea,2,2018-04-19 18:45:00,Burnley,34,52
+34,Stoke City,1,Burnley,1,2018-04-22 12:30:00,Burnley,35,53
+35,Burnley,0,Brighton & Hove Albion,0,2018-04-28 14:00:00,Burnley,36,54
+36,Arsenal,5,Burnley,0,2018-05-06 15:30:00,Burnley,37,54
+37,Burnley,1,AFC Bournemouth,2,2018-05-13 14:00:00,Burnley,38,54
+38,West Bromwich Albion,1,AFC Bournemouth,0,2017-08-12 14:00:00,AFC Bournemouth,1,0
+39,AFC Bournemouth,0,Watford,2,2017-08-19 14:00:00,AFC Bournemouth,2,0
+40,AFC Bournemouth,1,Manchester City,2,2017-08-26 11:30:00,AFC Bournemouth,3,0
+41,Arsenal,3,AFC Bournemouth,0,2017-09-09 14:00:00,AFC Bournemouth,4,0
+42,AFC Bournemouth,2,Brighton & Hove Albion,1,2017-09-15 19:00:00,AFC Bournemouth,5,3
+43,Everton,2,AFC Bournemouth,1,2017-09-23 14:00:00,AFC Bournemouth,6,3
+44,AFC Bournemouth,0,Leicester City,0,2017-09-30 14:00:00,AFC Bournemouth,7,4
+45,Tottenham Hotspur,1,AFC Bournemouth,0,2017-10-14 14:00:00,AFC Bournemouth,8,4
+46,Stoke City,1,AFC Bournemouth,2,2017-10-21 14:00:00,AFC Bournemouth,9,7
+47,AFC Bournemouth,0,Chelsea,1,2017-10-28 16:30:00,AFC Bournemouth,10,7
+48,Newcastle United,0,AFC Bournemouth,1,2017-11-04 15:00:00,AFC Bournemouth,11,10
+49,AFC Bournemouth,4,Huddersfield Town,0,2017-11-18 15:00:00,AFC Bournemouth,12,13
+50,Swansea City,0,AFC Bournemouth,0,2017-11-25 15:00:00,AFC Bournemouth,13,14
+51,AFC Bournemouth,1,Burnley,2,2017-11-29 19:45:00,AFC Bournemouth,14,14
+52,AFC Bournemouth,1,Southampton,1,2017-12-03 13:30:00,AFC Bournemouth,15,15
+53,Crystal Palace,2,AFC Bournemouth,2,2017-12-09 15:00:00,AFC Bournemouth,16,16
+54,Manchester United,1,AFC Bournemouth,0,2017-12-13 20:00:00,AFC Bournemouth,17,16
+55,AFC Bournemouth,0,Liverpool,4,2017-12-17 16:30:00,AFC Bournemouth,18,16
+56,Manchester City,4,AFC Bournemouth,0,2017-12-23 15:00:00,AFC Bournemouth,19,16
+57,AFC Bournemouth,3,West Ham United,3,2017-12-26 15:00:00,AFC Bournemouth,20,17
+58,AFC Bournemouth,2,Everton,1,2017-12-30 15:00:00,AFC Bournemouth,21,20
+59,Brighton & Hove Albion,2,AFC Bournemouth,2,2018-01-01 12:30:00,AFC Bournemouth,22,21
+60,AFC Bournemouth,2,Arsenal,1,2018-01-14 13:30:00,AFC Bournemouth,23,24
+61,West Ham United,1,AFC Bournemouth,1,2018-01-20 15:00:00,AFC Bournemouth,24,25
+62,Chelsea,0,AFC Bournemouth,3,2018-01-31 19:45:00,AFC Bournemouth,25,28
+63,AFC Bournemouth,2,Stoke City,1,2018-02-03 15:00:00,AFC Bournemouth,26,31
+64,Huddersfield Town,4,AFC Bournemouth,1,2018-02-11 12:00:00,AFC Bournemouth,27,31
+65,AFC Bournemouth,2,Newcastle United,2,2018-02-24 15:00:00,AFC Bournemouth,28,32
+66,Leicester City,1,AFC Bournemouth,1,2018-03-03 15:00:00,AFC Bournemouth,29,33
+67,AFC Bournemouth,1,Tottenham Hotspur,4,2018-03-11 16:00:00,AFC Bournemouth,30,33
+68,AFC Bournemouth,2,West Bromwich Albion,1,2018-03-17 14:00:00,AFC Bournemouth,31,36
+69,Watford,2,AFC Bournemouth,2,2018-03-31 14:00:00,AFC Bournemouth,32,37
+70,AFC Bournemouth,2,Crystal Palace,2,2018-04-07 14:00:00,AFC Bournemouth,33,38
+71,Liverpool,3,AFC Bournemouth,0,2018-04-14 16:30:00,AFC Bournemouth,34,38
+72,AFC Bournemouth,0,Manchester United,2,2018-04-18 18:45:00,AFC Bournemouth,35,38
+73,Southampton,2,AFC Bournemouth,1,2018-04-28 14:00:00,AFC Bournemouth,36,38
+74,AFC Bournemouth,1,Swansea City,0,2018-05-05 14:00:00,AFC Bournemouth,37,41
+75,Burnley,1,AFC Bournemouth,2,2018-05-13 14:00:00,AFC Bournemouth,38,44
+76,Crystal Palace,0,Huddersfield Town,3,2017-08-12 14:00:00,Crystal Palace,1,0
+77,Liverpool,1,Crystal Palace,0,2017-08-19 14:00:00,Crystal Palace,2,0
+78,Crystal Palace,0,Swansea City,2,2017-08-26 14:00:00,Crystal Palace,3,0
+79,Burnley,1,Crystal Palace,0,2017-09-10 12:30:00,Crystal Palace,4,0
+80,Crystal Palace,0,Southampton,1,2017-09-16 11:30:00,Crystal Palace,5,0
+81,Manchester City,5,Crystal Palace,0,2017-09-23 14:00:00,Crystal Palace,6,0
+82,Manchester United,4,Crystal Palace,0,2017-09-30 14:00:00,Crystal Palace,7,0
+83,Crystal Palace,2,Chelsea,1,2017-10-14 14:00:00,Crystal Palace,8,3
+84,Newcastle United,1,Crystal Palace,0,2017-10-21 14:00:00,Crystal Palace,9,3
+85,Crystal Palace,2,West Ham United,2,2017-10-28 14:00:00,Crystal Palace,10,4
+86,Tottenham Hotspur,1,Crystal Palace,0,2017-11-05 12:00:00,Crystal Palace,11,4
+87,Crystal Palace,2,Everton,2,2017-11-18 15:00:00,Crystal Palace,12,5
+88,Crystal Palace,2,Stoke City,1,2017-11-25 15:00:00,Crystal Palace,13,8
+89,Brighton & Hove Albion,0,Crystal Palace,0,2017-11-28 19:45:00,Crystal Palace,14,9
+90,West Bromwich Albion,0,Crystal Palace,0,2017-12-02 15:00:00,Crystal Palace,15,10
+91,Crystal Palace,2,AFC Bournemouth,2,2017-12-09 15:00:00,Crystal Palace,16,11
+92,Crystal Palace,2,Watford,1,2017-12-12 20:00:00,Crystal Palace,17,14
+93,Leicester City,0,Crystal Palace,3,2017-12-16 12:30:00,Crystal Palace,18,17
+94,Swansea City,1,Crystal Palace,1,2017-12-23 15:00:00,Crystal Palace,19,18
+95,Crystal Palace,2,Arsenal,3,2017-12-28 20:00:00,Crystal Palace,20,18
+96,Crystal Palace,0,Manchester City,0,2017-12-31 12:00:00,Crystal Palace,21,19
+97,Southampton,1,Crystal Palace,2,2018-01-02 19:45:00,Crystal Palace,22,22
+98,Crystal Palace,1,Burnley,0,2018-01-13 15:00:00,Crystal Palace,23,25
+99,Arsenal,4,Crystal Palace,1,2018-01-20 15:00:00,Crystal Palace,24,25
+100,West Ham United,1,Crystal Palace,1,2018-01-30 19:45:00,Crystal Palace,25,26
+101,Crystal Palace,1,Newcastle United,1,2018-02-04 14:15:00,Crystal Palace,26,27
+102,Everton,3,Crystal Palace,1,2018-02-10 15:00:00,Crystal Palace,27,27
+103,Crystal Palace,0,Tottenham Hotspur,1,2018-02-25 12:00:00,Crystal Palace,28,27
+104,Crystal Palace,2,Manchester United,3,2018-03-05 20:00:00,Crystal Palace,29,27
+105,Chelsea,2,Crystal Palace,1,2018-03-10 17:30:00,Crystal Palace,30,27
+106,Huddersfield Town,0,Crystal Palace,2,2018-03-17 15:00:00,Crystal Palace,31,30
+107,Crystal Palace,1,Liverpool,2,2018-03-31 11:30:00,Crystal Palace,32,30
+108,AFC Bournemouth,2,Crystal Palace,2,2018-04-07 14:00:00,Crystal Palace,33,31
+109,Crystal Palace,3,Brighton & Hove Albion,2,2018-04-14 14:00:00,Crystal Palace,34,34
+110,Watford,0,Crystal Palace,0,2018-04-21 14:00:00,Crystal Palace,35,35
+111,Crystal Palace,5,Leicester City,0,2018-04-28 14:00:00,Crystal Palace,36,38
+112,Stoke City,1,Crystal Palace,2,2018-05-05 11:30:00,Crystal Palace,37,41
+113,Crystal Palace,2,West Bromwich Albion,0,2018-05-13 14:00:00,Crystal Palace,38,44
+114,West Bromwich Albion,1,AFC Bournemouth,0,2017-08-12 14:00:00,West Bromwich Albion,1,3
+115,Burnley,0,West Bromwich Albion,1,2017-08-19 14:00:00,West Bromwich Albion,2,6
+116,West Bromwich Albion,1,Stoke City,1,2017-08-27 12:30:00,West Bromwich Albion,3,7
+117,Brighton & Hove Albion,3,West Bromwich Albion,1,2017-09-09 14:00:00,West Bromwich Albion,4,7
+118,West Bromwich Albion,0,West Ham United,0,2017-09-16 14:00:00,West Bromwich Albion,5,8
+119,Arsenal,2,West Bromwich Albion,0,2017-09-25 19:00:00,West Bromwich Albion,6,8
+120,West Bromwich Albion,2,Watford,2,2017-09-30 14:00:00,West Bromwich Albion,7,9
+121,Leicester City,1,West Bromwich Albion,1,2017-10-16 19:00:00,West Bromwich Albion,8,10
+122,Southampton,1,West Bromwich Albion,0,2017-10-21 16:30:00,West Bromwich Albion,9,10
+123,West Bromwich Albion,2,Manchester City,3,2017-10-28 14:00:00,West Bromwich Albion,10,10
+124,Huddersfield Town,1,West Bromwich Albion,0,2017-11-04 15:00:00,West Bromwich Albion,11,10
+125,West Bromwich Albion,0,Chelsea,4,2017-11-18 15:00:00,West Bromwich Albion,12,10
+126,Tottenham Hotspur,1,West Bromwich Albion,1,2017-11-25 15:00:00,West Bromwich Albion,13,11
+127,West Bromwich Albion,2,Newcastle United,2,2017-11-28 20:00:00,West Bromwich Albion,14,12
+128,West Bromwich Albion,0,Crystal Palace,0,2017-12-02 15:00:00,West Bromwich Albion,15,13
+129,Swansea City,1,West Bromwich Albion,0,2017-12-09 15:00:00,West Bromwich Albion,16,13
+130,Liverpool,0,West Bromwich Albion,0,2017-12-13 20:00:00,West Bromwich Albion,17,14
+131,West Bromwich Albion,1,Manchester United,2,2017-12-17 14:15:00,West Bromwich Albion,18,14
+132,Stoke City,3,West Bromwich Albion,1,2017-12-23 15:00:00,West Bromwich Albion,19,14
+133,West Bromwich Albion,0,Everton,0,2017-12-26 15:00:00,West Bromwich Albion,20,15
+134,West Bromwich Albion,1,Arsenal,1,2017-12-31 16:30:00,West Bromwich Albion,21,16
+135,West Ham United,2,West Bromwich Albion,1,2018-01-02 19:45:00,West Bromwich Albion,22,16
+136,West Bromwich Albion,2,Brighton & Hove Albion,0,2018-01-13 15:00:00,West Bromwich Albion,23,19
+137,Everton,1,West Bromwich Albion,1,2018-01-20 15:00:00,West Bromwich Albion,24,20
+138,Manchester City,3,West Bromwich Albion,0,2018-01-31 20:00:00,West Bromwich Albion,25,20
+139,West Bromwich Albion,2,Southampton,3,2018-02-03 15:00:00,West Bromwich Albion,26,20
+140,Chelsea,3,West Bromwich Albion,0,2018-02-12 20:00:00,West Bromwich Albion,27,20
+141,West Bromwich Albion,1,Huddersfield Town,2,2018-02-24 15:00:00,West Bromwich Albion,28,20
+142,Watford,1,West Bromwich Albion,0,2018-03-03 15:00:00,West Bromwich Albion,29,20
+143,West Bromwich Albion,1,Leicester City,4,2018-03-10 15:00:00,West Bromwich Albion,30,20
+144,AFC Bournemouth,2,West Bromwich Albion,1,2018-03-17 14:00:00,West Bromwich Albion,31,20
+145,West Bromwich Albion,1,Burnley,2,2018-03-31 14:00:00,West Bromwich Albion,32,20
+146,West Bromwich Albion,1,Swansea City,1,2018-04-07 14:00:00,West Bromwich Albion,33,21
+147,Manchester United,0,West Bromwich Albion,1,2018-04-15 15:00:00,West Bromwich Albion,34,24
+148,West Bromwich Albion,2,Liverpool,2,2018-04-21 11:30:00,West Bromwich Albion,35,25
+149,Newcastle United,0,West Bromwich Albion,1,2018-04-28 14:00:00,West Bromwich Albion,36,28
+150,West Bromwich Albion,1,Tottenham Hotspur,0,2018-05-05 14:00:00,West Bromwich Albion,37,31
+151,Crystal Palace,2,West Bromwich Albion,0,2018-05-13 14:00:00,West Bromwich Albion,38,31
+152,Arsenal,4,Leicester City,3,2017-08-11 18:45:00,Arsenal,1,3
+153,Stoke City,1,Arsenal,0,2017-08-19 16:30:00,Arsenal,2,3
+154,Liverpool,4,Arsenal,0,2017-08-27 15:00:00,Arsenal,3,3
+155,Arsenal,3,AFC Bournemouth,0,2017-09-09 14:00:00,Arsenal,4,6
+156,Chelsea,0,Arsenal,0,2017-09-17 12:30:00,Arsenal,5,7
+157,Arsenal,2,West Bromwich Albion,0,2017-09-25 19:00:00,Arsenal,6,10
+158,Arsenal,2,Brighton & Hove Albion,0,2017-10-01 11:00:00,Arsenal,7,13
+159,Watford,2,Arsenal,1,2017-10-14 16:30:00,Arsenal,8,13
+160,Everton,2,Arsenal,5,2017-10-22 12:30:00,Arsenal,9,16
+161,Arsenal,2,Swansea City,1,2017-10-28 14:00:00,Arsenal,10,19
+162,Manchester City,3,Arsenal,1,2017-11-05 14:15:00,Arsenal,11,19
+163,Arsenal,2,Tottenham Hotspur,0,2017-11-18 12:30:00,Arsenal,12,22
+164,Burnley,0,Arsenal,1,2017-11-26 14:00:00,Arsenal,13,25
+165,Arsenal,5,Huddersfield Town,0,2017-11-29 19:45:00,Arsenal,14,28
+166,Arsenal,1,Manchester United,3,2017-12-02 17:30:00,Arsenal,15,28
+167,Southampton,1,Arsenal,1,2017-12-10 12:00:00,Arsenal,16,29
+168,West Ham United,0,Arsenal,0,2017-12-13 20:00:00,Arsenal,17,30
+169,Arsenal,1,Newcastle United,0,2017-12-16 15:00:00,Arsenal,18,33
+170,Arsenal,3,Liverpool,3,2017-12-22 19:45:00,Arsenal,19,34
+171,Crystal Palace,2,Arsenal,3,2017-12-28 20:00:00,Arsenal,20,37
+172,West Bromwich Albion,1,Arsenal,1,2017-12-31 16:30:00,Arsenal,21,38
+173,Arsenal,2,Chelsea,2,2018-01-03 19:45:00,Arsenal,22,39
+174,AFC Bournemouth,2,Arsenal,1,2018-01-14 13:30:00,Arsenal,23,39
+175,Arsenal,4,Crystal Palace,1,2018-01-20 15:00:00,Arsenal,24,42
+176,Swansea City,3,Arsenal,1,2018-01-30 19:45:00,Arsenal,25,42
+177,Arsenal,5,Everton,1,2018-02-03 17:30:00,Arsenal,26,45
+178,Tottenham Hotspur,1,Arsenal,0,2018-02-10 12:30:00,Arsenal,27,45
+179,Arsenal,0,Manchester City,3,2018-03-01 19:45:00,Arsenal,28,45
+180,Brighton & Hove Albion,2,Arsenal,1,2018-03-04 13:30:00,Arsenal,29,45
+181,Arsenal,3,Watford,0,2018-03-11 13:30:00,Arsenal,30,48
+182,Arsenal,3,Stoke City,0,2018-04-01 12:30:00,Arsenal,31,51
+183,Arsenal,3,Southampton,2,2018-04-08 13:15:00,Arsenal,32,54
+184,Newcastle United,2,Arsenal,1,2018-04-15 12:30:00,Arsenal,33,54
+185,Arsenal,4,West Ham United,1,2018-04-22 12:30:00,Arsenal,34,57
+186,Manchester United,2,Arsenal,1,2018-04-29 15:30:00,Arsenal,35,57
+187,Arsenal,5,Burnley,0,2018-05-06 15:30:00,Arsenal,36,60
+188,Leicester City,3,Arsenal,1,2018-05-09 18:45:00,Arsenal,37,60
+189,Huddersfield Town,0,Arsenal,1,2018-05-13 14:00:00,Arsenal,38,63
+190,Crystal Palace,0,Huddersfield Town,3,2017-08-12 14:00:00,Huddersfield Town,1,3
+191,Huddersfield Town,1,Newcastle United,0,2017-08-20 12:30:00,Huddersfield Town,2,6
+192,Huddersfield Town,0,Southampton,0,2017-08-26 14:00:00,Huddersfield Town,3,7
+193,West Ham United,2,Huddersfield Town,0,2017-09-11 19:00:00,Huddersfield Town,4,7
+194,Huddersfield Town,1,Leicester City,1,2017-09-16 14:00:00,Huddersfield Town,5,8
+195,Burnley,0,Huddersfield Town,0,2017-09-23 14:00:00,Huddersfield Town,6,9
+196,Huddersfield Town,0,Tottenham Hotspur,4,2017-09-30 11:30:00,Huddersfield Town,7,9
+197,Swansea City,2,Huddersfield Town,0,2017-10-14 14:00:00,Huddersfield Town,8,9
+198,Huddersfield Town,2,Manchester United,1,2017-10-21 14:00:00,Huddersfield Town,9,12
+199,Liverpool,3,Huddersfield Town,0,2017-10-28 14:00:00,Huddersfield Town,10,12
+200,Huddersfield Town,1,West Bromwich Albion,0,2017-11-04 15:00:00,Huddersfield Town,11,15
+201,AFC Bournemouth,4,Huddersfield Town,0,2017-11-18 15:00:00,Huddersfield Town,12,15
+202,Huddersfield Town,1,Manchester City,2,2017-11-26 16:00:00,Huddersfield Town,13,15
+203,Arsenal,5,Huddersfield Town,0,2017-11-29 19:45:00,Huddersfield Town,14,15
+204,Everton,2,Huddersfield Town,0,2017-12-02 15:00:00,Huddersfield Town,15,15
+205,Huddersfield Town,2,Brighton & Hove Albion,0,2017-12-09 15:00:00,Huddersfield Town,16,18
+206,Huddersfield Town,1,Chelsea,3,2017-12-12 20:00:00,Huddersfield Town,17,18
+207,Watford,1,Huddersfield Town,4,2017-12-16 15:00:00,Huddersfield Town,18,21
+208,Southampton,1,Huddersfield Town,1,2017-12-23 15:00:00,Huddersfield Town,19,22
+209,Huddersfield Town,1,Stoke City,1,2017-12-26 15:00:00,Huddersfield Town,20,23
+210,Huddersfield Town,0,Burnley,0,2017-12-30 15:00:00,Huddersfield Town,21,24
+211,Leicester City,3,Huddersfield Town,0,2018-01-01 15:00:00,Huddersfield Town,22,24
+212,Huddersfield Town,1,West Ham United,4,2018-01-13 15:00:00,Huddersfield Town,23,24
+213,Stoke City,2,Huddersfield Town,0,2018-01-20 15:00:00,Huddersfield Town,24,24
+214,Huddersfield Town,0,Liverpool,3,2018-01-30 20:00:00,Huddersfield Town,25,24
+215,Manchester United,2,Huddersfield Town,0,2018-02-03 15:00:00,Huddersfield Town,26,24
+216,Huddersfield Town,4,AFC Bournemouth,1,2018-02-11 12:00:00,Huddersfield Town,27,27
+217,West Bromwich Albion,1,Huddersfield Town,2,2018-02-24 15:00:00,Huddersfield Town,28,30
+218,Tottenham Hotspur,2,Huddersfield Town,0,2018-03-03 15:00:00,Huddersfield Town,29,30
+219,Huddersfield Town,0,Swansea City,0,2018-03-10 15:00:00,Huddersfield Town,30,31
+220,Huddersfield Town,0,Crystal Palace,2,2018-03-17 15:00:00,Huddersfield Town,31,31
+221,Newcastle United,1,Huddersfield Town,0,2018-03-31 14:00:00,Huddersfield Town,32,31
+222,Brighton & Hove Albion,1,Huddersfield Town,1,2018-04-07 14:00:00,Huddersfield Town,33,32
+223,Huddersfield Town,1,Watford,0,2018-04-14 14:00:00,Huddersfield Town,34,35
+224,Huddersfield Town,0,Everton,2,2018-04-28 14:00:00,Huddersfield Town,35,35
+225,Manchester City,0,Huddersfield Town,0,2018-05-06 12:30:00,Huddersfield Town,36,36
+226,Chelsea,1,Huddersfield Town,1,2018-05-09 18:45:00,Huddersfield Town,37,37
+227,Huddersfield Town,0,Arsenal,1,2018-05-13 14:00:00,Huddersfield Town,38,37
+228,Brighton & Hove Albion,0,Manchester City,2,2017-08-12 16:30:00,Brighton & Hove Albion,1,0
+229,Leicester City,2,Brighton & Hove Albion,0,2017-08-19 14:00:00,Brighton & Hove Albion,2,0
+230,Watford,0,Brighton & Hove Albion,0,2017-08-26 14:00:00,Brighton & Hove Albion,3,1
+231,Brighton & Hove Albion,3,West Bromwich Albion,1,2017-09-09 14:00:00,Brighton & Hove Albion,4,4
+232,AFC Bournemouth,2,Brighton & Hove Albion,1,2017-09-15 19:00:00,Brighton & Hove Albion,5,4
+233,Brighton & Hove Albion,1,Newcastle United,0,2017-09-24 15:00:00,Brighton & Hove Albion,6,7
+234,Arsenal,2,Brighton & Hove Albion,0,2017-10-01 11:00:00,Brighton & Hove Albion,7,7
+235,Brighton & Hove Albion,1,Everton,1,2017-10-15 12:30:00,Brighton & Hove Albion,8,8
+236,West Ham United,0,Brighton & Hove Albion,3,2017-10-20 19:00:00,Brighton & Hove Albion,9,11
+237,Brighton & Hove Albion,1,Southampton,1,2017-10-29 13:30:00,Brighton & Hove Albion,10,12
+238,Swansea City,0,Brighton & Hove Albion,1,2017-11-04 15:00:00,Brighton & Hove Albion,11,15
+239,Brighton & Hove Albion,2,Stoke City,2,2017-11-20 20:00:00,Brighton & Hove Albion,12,16
+240,Manchester United,1,Brighton & Hove Albion,0,2017-11-25 15:00:00,Brighton & Hove Albion,13,16
+241,Brighton & Hove Albion,0,Crystal Palace,0,2017-11-28 19:45:00,Brighton & Hove Albion,14,17
+242,Brighton & Hove Albion,1,Liverpool,5,2017-12-02 15:00:00,Brighton & Hove Albion,15,17
+243,Huddersfield Town,2,Brighton & Hove Albion,0,2017-12-09 15:00:00,Brighton & Hove Albion,16,17
+244,Tottenham Hotspur,2,Brighton & Hove Albion,0,2017-12-13 20:00:00,Brighton & Hove Albion,17,17
+245,Brighton & Hove Albion,0,Burnley,0,2017-12-16 15:00:00,Brighton & Hove Albion,18,18
+246,Brighton & Hove Albion,1,Watford,0,2017-12-23 15:00:00,Brighton & Hove Albion,19,21
+247,Chelsea,2,Brighton & Hove Albion,0,2017-12-26 15:00:00,Brighton & Hove Albion,20,21
+248,Newcastle United,0,Brighton & Hove Albion,0,2017-12-30 15:00:00,Brighton & Hove Albion,21,22
+249,Brighton & Hove Albion,2,AFC Bournemouth,2,2018-01-01 12:30:00,Brighton & Hove Albion,22,23
+250,West Bromwich Albion,2,Brighton & Hove Albion,0,2018-01-13 15:00:00,Brighton & Hove Albion,23,23
+251,Brighton & Hove Albion,0,Chelsea,4,2018-01-20 12:30:00,Brighton & Hove Albion,24,23
+252,Southampton,1,Brighton & Hove Albion,1,2018-01-31 19:45:00,Brighton & Hove Albion,25,24
+253,Brighton & Hove Albion,3,West Ham United,1,2018-02-03 15:00:00,Brighton & Hove Albion,26,27
+254,Stoke City,1,Brighton & Hove Albion,1,2018-02-10 15:00:00,Brighton & Hove Albion,27,28
+255,Brighton & Hove Albion,4,Swansea City,1,2018-02-24 15:00:00,Brighton & Hove Albion,28,31
+256,Brighton & Hove Albion,2,Arsenal,1,2018-03-04 13:30:00,Brighton & Hove Albion,29,34
+257,Everton,2,Brighton & Hove Albion,0,2018-03-10 15:00:00,Brighton & Hove Albion,30,35
+258,Brighton & Hove Albion,0,Leicester City,2,2018-03-31 14:00:00,Brighton & Hove Albion,31,35
+259,Brighton & Hove Albion,1,Huddersfield Town,1,2018-04-07 14:00:00,Brighton & Hove Albion,32,36
+260,Crystal Palace,3,Brighton & Hove Albion,2,2018-04-14 14:00:00,Brighton & Hove Albion,33,36
+261,Brighton & Hove Albion,1,Tottenham Hotspur,1,2018-04-17 18:45:00,Brighton & Hove Albion,34,37
+262,Burnley,0,Brighton & Hove Albion,0,2018-04-28 14:00:00,Brighton & Hove Albion,35,38
+263,Brighton & Hove Albion,1,Manchester United,0,2018-05-04 19:00:00,Brighton & Hove Albion,36,41
+264,Manchester City,3,Brighton & Hove Albion,1,2018-05-09 19:00:00,Brighton & Hove Albion,37,41
+265,Liverpool,4,Brighton & Hove Albion,0,2018-05-13 14:00:00,Brighton & Hove Albion,38,41
+266,Watford,3,Liverpool,3,2017-08-12 11:30:00,Liverpool,1,1
+267,Liverpool,1,Crystal Palace,0,2017-08-19 14:00:00,Liverpool,2,4
+268,Liverpool,4,Arsenal,0,2017-08-27 15:00:00,Liverpool,3,7
+269,Manchester City,5,Liverpool,0,2017-09-09 11:30:00,Liverpool,4,7
+270,Liverpool,1,Burnley,1,2017-09-16 14:00:00,Liverpool,5,8
+271,Leicester City,2,Liverpool,3,2017-09-23 16:30:00,Liverpool,6,11
+272,Newcastle United,1,Liverpool,1,2017-10-01 15:30:00,Liverpool,7,12
+273,Liverpool,0,Manchester United,0,2017-10-14 11:30:00,Liverpool,8,13
+274,Tottenham Hotspur,4,Liverpool,1,2017-10-22 15:00:00,Liverpool,9,13
+275,Liverpool,3,Huddersfield Town,0,2017-10-28 14:00:00,Liverpool,10,16
+276,West Ham United,1,Liverpool,4,2017-11-04 17:30:00,Liverpool,11,19
+277,Liverpool,3,Southampton,0,2017-11-18 15:00:00,Liverpool,12,22
+278,Liverpool,1,Chelsea,1,2017-11-25 17:30:00,Liverpool,13,23
+279,Stoke City,0,Liverpool,3,2017-11-29 20:00:00,Liverpool,14,26
+280,Brighton & Hove Albion,1,Liverpool,5,2017-12-02 15:00:00,Liverpool,15,29
+281,Liverpool,1,Everton,1,2017-12-10 14:15:00,Liverpool,16,30
+282,Liverpool,0,West Bromwich Albion,0,2017-12-13 20:00:00,Liverpool,17,31
+283,AFC Bournemouth,0,Liverpool,4,2017-12-17 16:30:00,Liverpool,18,34
+284,Arsenal,3,Liverpool,3,2017-12-22 19:45:00,Liverpool,19,35
+285,Liverpool,5,Swansea City,0,2017-12-26 17:30:00,Liverpool,20,38
+286,Liverpool,2,Leicester City,1,2017-12-30 15:00:00,Liverpool,21,41
+287,Burnley,1,Liverpool,2,2018-01-01 15:00:00,Liverpool,22,44
+288,Liverpool,4,Manchester City,3,2018-01-14 16:00:00,Liverpool,23,47
+289,Swansea City,1,Liverpool,0,2018-01-22 20:00:00,Liverpool,24,47
+290,Huddersfield Town,0,Liverpool,3,2018-01-30 20:00:00,Liverpool,25,50
+291,Liverpool,2,Tottenham Hotspur,2,2018-02-04 16:30:00,Liverpool,26,51
+292,Southampton,0,Liverpool,2,2018-02-11 16:30:00,Liverpool,27,54
+293,Liverpool,4,West Ham United,1,2018-02-24 15:00:00,Liverpool,28,57
+294,Liverpool,2,Newcastle United,0,2018-03-03 17:30:00,Liverpool,29,60
+295,Manchester United,2,Liverpool,1,2018-03-10 12:30:00,Liverpool,30,60
+296,Liverpool,5,Watford,0,2018-03-17 17:30:00,Liverpool,31,63
+297,Crystal Palace,1,Liverpool,2,2018-03-31 11:30:00,Liverpool,32,66
+298,Everton,0,Liverpool,0,2018-04-07 11:30:00,Liverpool,33,67
+299,Liverpool,3,AFC Bournemouth,0,2018-04-14 16:30:00,Liverpool,34,70
+300,West Bromwich Albion,2,Liverpool,2,2018-04-21 11:30:00,Liverpool,35,71
+301,Liverpool,0,Stoke City,0,2018-04-28 11:30:00,Liverpool,36,72
+302,Chelsea,1,Liverpool,0,2018-05-06 15:30:00,Liverpool,37,72
+303,Liverpool,4,Brighton & Hove Albion,0,2018-05-13 14:00:00,Liverpool,38,75
+304,Watford,3,Liverpool,3,2017-08-12 11:30:00,Watford,1,1
+305,AFC Bournemouth,0,Watford,2,2017-08-19 14:00:00,Watford,2,4
+306,Watford,0,Brighton & Hove Albion,0,2017-08-26 14:00:00,Watford,3,5
+307,Southampton,0,Watford,2,2017-09-09 14:00:00,Watford,4,8
+308,Watford,0,Manchester City,6,2017-09-16 14:00:00,Watford,5,8
+309,Swansea City,1,Watford,2,2017-09-23 14:00:00,Watford,6,11
+310,West Bromwich Albion,2,Watford,2,2017-09-30 14:00:00,Watford,7,12
+311,Watford,2,Arsenal,1,2017-10-14 16:30:00,Watford,8,15
+312,Chelsea,4,Watford,2,2017-10-21 11:30:00,Watford,9,15
+313,Watford,0,Stoke City,1,2017-10-28 14:00:00,Watford,10,15
+314,Everton,3,Watford,2,2017-11-05 16:30:00,Watford,11,15
+315,Watford,2,West Ham United,0,2017-11-19 16:00:00,Watford,12,18
+316,Newcastle United,0,Watford,3,2017-11-25 15:00:00,Watford,13,21
+317,Watford,2,Manchester United,4,2017-11-28 20:00:00,Watford,14,21
+318,Watford,1,Tottenham Hotspur,1,2017-12-02 15:00:00,Watford,15,22
+319,Burnley,1,Watford,0,2017-12-09 15:00:00,Watford,16,22
+320,Crystal Palace,2,Watford,1,2017-12-12 20:00:00,Watford,17,22
+321,Watford,1,Huddersfield Town,4,2017-12-16 15:00:00,Watford,18,22
+322,Brighton & Hove Albion,1,Watford,0,2017-12-23 15:00:00,Watford,19,22
+323,Watford,2,Leicester City,1,2017-12-26 15:00:00,Watford,20,25
+324,Watford,1,Swansea City,2,2017-12-30 15:00:00,Watford,21,25
+325,Manchester City,3,Watford,1,2018-01-02 20:00:00,Watford,22,25
+326,Watford,2,Southampton,2,2018-01-13 15:00:00,Watford,23,26
+327,Leicester City,2,Watford,0,2018-01-20 15:00:00,Watford,24,26
+328,Stoke City,0,Watford,0,2018-01-31 20:00:00,Watford,25,27
+329,Watford,4,Chelsea,1,2018-02-05 20:00:00,Watford,26,30
+330,West Ham United,2,Watford,0,2018-02-10 15:00:00,Watford,27,30
+331,Watford,1,Everton,0,2018-02-24 17:30:00,Watford,28,31
+332,Watford,1,West Bromwich Albion,0,2018-03-03 15:00:00,Watford,29,34
+333,Arsenal,3,Watford,0,2018-03-11 13:30:00,Watford,30,34
+334,Liverpool,5,Watford,0,2018-03-17 17:30:00,Watford,31,34
+335,Watford,2,AFC Bournemouth,2,2018-03-31 14:00:00,Watford,32,35
+336,Watford,1,Burnley,2,2018-04-07 14:00:00,Watford,33,35
+337,Huddersfield Town,1,Watford,0,2018-04-14 14:00:00,Watford,34,35
+338,Watford,0,Crystal Palace,0,2018-04-21 14:00:00,Watford,35,36
+339,Tottenham Hotspur,2,Watford,0,2018-04-30 19:00:00,Watford,36,36
+340,Watford,2,Newcastle United,1,2018-05-05 14:00:00,Watford,37,39
+341,Manchester United,1,Watford,0,2018-05-13 14:00:00,Watford,38,39
+342,Manchester United,4,West Ham United,0,2017-08-13 15:00:00,Manchester United,1,3
+343,Swansea City,0,Manchester United,4,2017-08-19 11:30:00,Manchester United,2,6
+344,Manchester United,2,Leicester City,0,2017-08-26 16:30:00,Manchester United,3,9
+345,Stoke City,2,Manchester United,2,2017-09-09 16:30:00,Manchester United,4,10
+346,Manchester United,4,Everton,0,2017-09-17 15:00:00,Manchester United,5,13
+347,Southampton,0,Manchester United,1,2017-09-23 14:00:00,Manchester United,6,16
+348,Manchester United,4,Crystal Palace,0,2017-09-30 14:00:00,Manchester United,7,19
+349,Liverpool,0,Manchester United,0,2017-10-14 11:30:00,Manchester United,8,20
+350,Huddersfield Town,2,Manchester United,1,2017-10-21 14:00:00,Manchester United,9,20
+351,Manchester United,1,Tottenham Hotspur,0,2017-10-28 11:30:00,Manchester United,10,23
+352,Chelsea,1,Manchester United,0,2017-11-05 16:30:00,Manchester United,11,23
+353,Manchester United,4,Newcastle United,1,2017-11-18 17:30:00,Manchester United,12,26
+354,Manchester United,1,Brighton & Hove Albion,0,2017-11-25 15:00:00,Manchester United,13,29
+355,Watford,2,Manchester United,4,2017-11-28 20:00:00,Manchester United,14,32
+356,Arsenal,1,Manchester United,3,2017-12-02 17:30:00,Manchester United,15,35
+357,Manchester United,1,Manchester City,2,2017-12-10 16:30:00,Manchester United,16,35
+358,Manchester United,1,AFC Bournemouth,0,2017-12-13 20:00:00,Manchester United,17,38
+359,West Bromwich Albion,1,Manchester United,2,2017-12-17 14:15:00,Manchester United,18,41
+360,Leicester City,2,Manchester United,2,2017-12-23 19:45:00,Manchester United,19,42
+361,Manchester United,2,Burnley,2,2017-12-26 15:00:00,Manchester United,20,43
+362,Manchester United,0,Southampton,0,2017-12-30 17:30:00,Manchester United,21,44
+363,Everton,0,Manchester United,2,2018-01-01 17:30:00,Manchester United,22,47
+364,Manchester United,3,Stoke City,0,2018-01-15 20:00:00,Manchester United,23,50
+365,Burnley,0,Manchester United,1,2018-01-20 15:00:00,Manchester United,24,53
+366,Tottenham Hotspur,2,Manchester United,0,2018-01-31 20:00:00,Manchester United,25,53
+367,Manchester United,2,Huddersfield Town,0,2018-02-03 15:00:00,Manchester United,26,56
+368,Newcastle United,1,Manchester United,0,2018-02-11 14:15:00,Manchester United,27,56
+369,Manchester United,2,Chelsea,1,2018-02-25 14:05:00,Manchester United,28,59
+370,Crystal Palace,2,Manchester United,3,2018-03-05 20:00:00,Manchester United,29,62
+371,Manchester United,2,Liverpool,1,2018-03-10 12:30:00,Manchester United,30,65
+372,Manchester United,2,Swansea City,0,2018-03-31 14:00:00,Manchester United,31,68
+373,Manchester City,2,Manchester United,3,2018-04-07 16:30:00,Manchester United,32,71
+374,Manchester United,0,West Bromwich Albion,1,2018-04-15 15:00:00,Manchester United,33,71
+375,AFC Bournemouth,0,Manchester United,2,2018-04-18 18:45:00,Manchester United,34,74
+376,Manchester United,2,Arsenal,1,2018-04-29 15:30:00,Manchester United,35,77
+377,Brighton & Hove Albion,1,Manchester United,0,2018-05-04 19:00:00,Manchester United,36,77
+378,West Ham United,0,Manchester United,0,2018-05-10 18:45:00,Manchester United,37,78
+379,Manchester United,1,Watford,0,2018-05-13 14:00:00,Manchester United,38,81
+380,Newcastle United,0,Tottenham Hotspur,2,2017-08-13 12:30:00,Newcastle United,1,0
+381,Huddersfield Town,1,Newcastle United,0,2017-08-20 12:30:00,Newcastle United,2,0
+382,Newcastle United,3,West Ham United,0,2017-08-26 14:00:00,Newcastle United,3,3
+383,Swansea City,0,Newcastle United,1,2017-09-10 15:00:00,Newcastle United,4,6
+384,Newcastle United,2,Stoke City,1,2017-09-16 14:00:00,Newcastle United,5,9
+385,Brighton & Hove Albion,1,Newcastle United,0,2017-09-24 15:00:00,Newcastle United,6,9
+386,Newcastle United,1,Liverpool,1,2017-10-01 15:30:00,Newcastle United,7,10
+387,Southampton,2,Newcastle United,2,2017-10-15 15:00:00,Newcastle United,8,11
+388,Newcastle United,1,Crystal Palace,0,2017-10-21 14:00:00,Newcastle United,9,14
+389,Burnley,1,Newcastle United,0,2017-10-30 20:00:00,Newcastle United,10,14
+390,Newcastle United,0,AFC Bournemouth,1,2017-11-04 15:00:00,Newcastle United,11,14
+391,Manchester United,4,Newcastle United,1,2017-11-18 17:30:00,Newcastle United,12,14
+392,Newcastle United,0,Watford,3,2017-11-25 15:00:00,Newcastle United,13,14
+393,West Bromwich Albion,2,Newcastle United,2,2017-11-28 20:00:00,Newcastle United,14,15
+394,Chelsea,3,Newcastle United,1,2017-12-02 12:30:00,Newcastle United,15,15
+395,Newcastle United,2,Leicester City,3,2017-12-09 17:30:00,Newcastle United,16,15
+396,Newcastle United,0,Everton,1,2017-12-13 19:45:00,Newcastle United,17,15
+397,Arsenal,1,Newcastle United,0,2017-12-16 15:00:00,Newcastle United,18,15
+398,West Ham United,2,Newcastle United,3,2017-12-23 15:00:00,Newcastle United,19,18
+399,Newcastle United,0,Manchester City,1,2017-12-27 19:45:00,Newcastle United,20,18
+400,Newcastle United,0,Brighton & Hove Albion,0,2017-12-30 15:00:00,Newcastle United,21,19
+401,Stoke City,0,Newcastle United,1,2018-01-01 15:00:00,Newcastle United,22,22
+402,Newcastle United,1,Swansea City,1,2018-01-13 15:00:00,Newcastle United,23,23
+403,Manchester City,3,Newcastle United,1,2018-01-20 17:30:00,Newcastle United,24,23
+404,Newcastle United,1,Burnley,1,2018-01-31 19:45:00,Newcastle United,25,24
+405,Crystal Palace,1,Newcastle United,1,2018-02-04 14:15:00,Newcastle United,26,25
+406,Newcastle United,1,Manchester United,0,2018-02-11 14:15:00,Newcastle United,27,28
+407,AFC Bournemouth,2,Newcastle United,2,2018-02-24 15:00:00,Newcastle United,28,29
+408,Liverpool,2,Newcastle United,0,2018-03-03 17:30:00,Newcastle United,29,29
+409,Newcastle United,3,Southampton,0,2018-03-10 15:00:00,Newcastle United,30,32
+410,Newcastle United,1,Huddersfield Town,0,2018-03-31 14:00:00,Newcastle United,31,35
+411,Leicester City,1,Newcastle United,2,2018-04-07 14:00:00,Newcastle United,32,38
+412,Newcastle United,2,Arsenal,1,2018-04-15 12:30:00,Newcastle United,33,41
+413,Everton,1,Newcastle United,0,2018-04-23 19:00:00,Newcastle United,34,41
+414,Newcastle United,0,West Bromwich Albion,1,2018-04-28 14:00:00,Newcastle United,35,41
+415,Watford,2,Newcastle United,1,2018-05-05 14:00:00,Newcastle United,36,41
+416,Tottenham Hotspur,1,Newcastle United,0,2018-05-09 19:00:00,Newcastle United,37,41
+417,Newcastle United,3,Chelsea,0,2018-05-13 14:00:00,Newcastle United,38,44
+418,Chelsea,2,Burnley,3,2017-08-12 14:00:00,Chelsea,1,0
+419,Tottenham Hotspur,1,Chelsea,2,2017-08-20 15:00:00,Chelsea,2,3
+420,Chelsea,2,Everton,0,2017-08-27 12:30:00,Chelsea,3,6
+421,Leicester City,1,Chelsea,2,2017-09-09 14:00:00,Chelsea,4,9
+422,Chelsea,0,Arsenal,0,2017-09-17 12:30:00,Chelsea,5,10
+423,Stoke City,0,Chelsea,4,2017-09-23 14:00:00,Chelsea,6,13
+424,Chelsea,0,Manchester City,1,2017-09-30 16:30:00,Chelsea,7,13
+425,Crystal Palace,2,Chelsea,1,2017-10-14 14:00:00,Chelsea,8,13
+426,Chelsea,4,Watford,2,2017-10-21 11:30:00,Chelsea,9,16
+427,AFC Bournemouth,0,Chelsea,1,2017-10-28 16:30:00,Chelsea,10,19
+428,Chelsea,1,Manchester United,0,2017-11-05 16:30:00,Chelsea,11,22
+429,West Bromwich Albion,0,Chelsea,4,2017-11-18 15:00:00,Chelsea,12,25
+430,Liverpool,1,Chelsea,1,2017-11-25 17:30:00,Chelsea,13,26
+431,Chelsea,1,Swansea City,0,2017-11-29 19:45:00,Chelsea,14,29
+432,Chelsea,3,Newcastle United,1,2017-12-02 12:30:00,Chelsea,15,32
+433,West Ham United,1,Chelsea,0,2017-12-09 12:30:00,Chelsea,16,32
+434,Huddersfield Town,1,Chelsea,3,2017-12-12 20:00:00,Chelsea,17,35
+435,Chelsea,1,Southampton,0,2017-12-16 15:00:00,Chelsea,18,38
+436,Everton,0,Chelsea,0,2017-12-23 12:30:00,Chelsea,19,39
+437,Chelsea,2,Brighton & Hove Albion,0,2017-12-26 15:00:00,Chelsea,20,42
+438,Chelsea,5,Stoke City,0,2017-12-30 15:00:00,Chelsea,21,45
+439,Arsenal,2,Chelsea,2,2018-01-03 19:45:00,Chelsea,22,46
+440,Chelsea,0,Leicester City,0,2018-01-13 15:00:00,Chelsea,23,47
+441,Brighton & Hove Albion,0,Chelsea,4,2018-01-20 12:30:00,Chelsea,24,50
+442,Chelsea,0,AFC Bournemouth,3,2018-01-31 19:45:00,Chelsea,25,50
+443,Watford,4,Chelsea,1,2018-02-05 20:00:00,Chelsea,26,50
+444,Chelsea,3,West Bromwich Albion,0,2018-02-12 20:00:00,Chelsea,27,53
+445,Manchester United,2,Chelsea,1,2018-02-25 14:05:00,Chelsea,28,53
+446,Manchester City,1,Chelsea,0,2018-03-04 16:00:00,Chelsea,29,53
+447,Chelsea,2,Crystal Palace,1,2018-03-10 17:30:00,Chelsea,30,56
+448,Chelsea,1,Tottenham Hotspur,3,2018-04-01 15:00:00,Chelsea,31,56
+449,Chelsea,1,West Ham United,1,2018-04-08 15:30:00,Chelsea,32,57
+450,Southampton,2,Chelsea,3,2018-04-14 11:30:00,Chelsea,33,60
+451,Burnley,1,Chelsea,2,2018-04-19 18:45:00,Chelsea,34,63
+452,Swansea City,0,Chelsea,1,2018-04-28 16:30:00,Chelsea,35,66
+453,Chelsea,1,Liverpool,0,2018-05-06 15:30:00,Chelsea,36,69
+454,Chelsea,1,Huddersfield Town,1,2018-05-09 18:45:00,Chelsea,37,70
+455,Newcastle United,3,Chelsea,0,2018-05-13 14:00:00,Chelsea,38,70
+456,Brighton & Hove Albion,0,Manchester City,2,2017-08-12 16:30:00,Manchester City,1,3
+457,Manchester City,1,Everton,1,2017-08-21 19:00:00,Manchester City,2,4
+458,AFC Bournemouth,1,Manchester City,2,2017-08-26 11:30:00,Manchester City,3,7
+459,Manchester City,5,Liverpool,0,2017-09-09 11:30:00,Manchester City,4,10
+460,Watford,0,Manchester City,6,2017-09-16 14:00:00,Manchester City,5,13
+461,Manchester City,5,Crystal Palace,0,2017-09-23 14:00:00,Manchester City,6,16
+462,Chelsea,0,Manchester City,1,2017-09-30 16:30:00,Manchester City,7,19
+463,Manchester City,7,Stoke City,2,2017-10-14 14:00:00,Manchester City,8,22
+464,Manchester City,3,Burnley,0,2017-10-21 14:00:00,Manchester City,9,25
+465,West Bromwich Albion,2,Manchester City,3,2017-10-28 14:00:00,Manchester City,10,28
+466,Manchester City,3,Arsenal,1,2017-11-05 14:15:00,Manchester City,11,31
+467,Leicester City,0,Manchester City,2,2017-11-18 15:00:00,Manchester City,12,34
+468,Huddersfield Town,1,Manchester City,2,2017-11-26 16:00:00,Manchester City,13,37
+469,Manchester City,2,Southampton,1,2017-11-29 20:00:00,Manchester City,14,40
+470,Manchester City,2,West Ham United,1,2017-12-03 16:00:00,Manchester City,15,43
+471,Manchester United,1,Manchester City,2,2017-12-10 16:30:00,Manchester City,16,46
+472,Swansea City,0,Manchester City,4,2017-12-13 19:45:00,Manchester City,17,49
+473,Manchester City,4,Tottenham Hotspur,1,2017-12-16 17:30:00,Manchester City,18,52
+474,Manchester City,4,AFC Bournemouth,0,2017-12-23 15:00:00,Manchester City,19,55
+475,Newcastle United,0,Manchester City,1,2017-12-27 19:45:00,Manchester City,20,58
+476,Crystal Palace,0,Manchester City,0,2017-12-31 12:00:00,Manchester City,21,59
+477,Manchester City,3,Watford,1,2018-01-02 20:00:00,Manchester City,22,62
+478,Liverpool,4,Manchester City,3,2018-01-14 16:00:00,Manchester City,23,62
+479,Manchester City,3,Newcastle United,1,2018-01-20 17:30:00,Manchester City,24,65
+480,Manchester City,3,West Bromwich Albion,0,2018-01-31 20:00:00,Manchester City,25,68
+481,Burnley,1,Manchester City,1,2018-02-03 12:30:00,Manchester City,26,69
+482,Manchester City,5,Leicester City,1,2018-02-10 17:30:00,Manchester City,27,72
+483,Arsenal,0,Manchester City,3,2018-03-01 19:45:00,Manchester City,28,75
+484,Manchester City,1,Chelsea,0,2018-03-04 16:00:00,Manchester City,29,78
+485,Stoke City,0,Manchester City,2,2018-03-12 20:00:00,Manchester City,30,81
+486,Everton,1,Manchester City,3,2018-03-31 16:30:00,Manchester City,31,84
+487,Manchester City,2,Manchester United,3,2018-04-07 16:30:00,Manchester City,32,84
+488,Tottenham Hotspur,1,Manchester City,3,2018-04-14 18:45:00,Manchester City,33,87
+489,Manchester City,5,Swansea City,0,2018-04-22 15:30:00,Manchester City,34,90
+490,West Ham United,1,Manchester City,4,2018-04-29 13:15:00,Manchester City,35,93
+491,Manchester City,0,Huddersfield Town,0,2018-05-06 12:30:00,Manchester City,36,94
+492,Manchester City,3,Brighton & Hove Albion,1,2018-05-09 19:00:00,Manchester City,37,97
+493,Southampton,0,Manchester City,1,2018-05-13 14:00:00,Manchester City,38,100
+494,Southampton,0,Swansea City,0,2017-08-12 14:00:00,Southampton,1,1
+495,Southampton,3,West Ham United,2,2017-08-19 14:00:00,Southampton,2,4
+496,Huddersfield Town,0,Southampton,0,2017-08-26 14:00:00,Southampton,3,5
+497,Southampton,0,Watford,2,2017-09-09 14:00:00,Southampton,4,5
+498,Crystal Palace,0,Southampton,1,2017-09-16 11:30:00,Southampton,5,8
+499,Southampton,0,Manchester United,1,2017-09-23 14:00:00,Southampton,6,8
+500,Stoke City,2,Southampton,1,2017-09-30 14:00:00,Southampton,7,8
+501,Southampton,2,Newcastle United,2,2017-10-15 15:00:00,Southampton,8,9
+502,Southampton,1,West Bromwich Albion,0,2017-10-21 16:30:00,Southampton,9,12
+503,Brighton & Hove Albion,1,Southampton,1,2017-10-29 13:30:00,Southampton,10,13
+504,Southampton,0,Burnley,1,2017-11-04 15:00:00,Southampton,11,13
+505,Liverpool,3,Southampton,0,2017-11-18 15:00:00,Southampton,12,13
+506,Southampton,4,Everton,1,2017-11-26 13:30:00,Southampton,13,16
+507,Manchester City,2,Southampton,1,2017-11-29 20:00:00,Southampton,14,16
+508,AFC Bournemouth,1,Southampton,1,2017-12-03 13:30:00,Southampton,15,17
+509,Southampton,1,Arsenal,1,2017-12-10 12:00:00,Southampton,16,18
+510,Southampton,1,Leicester City,4,2017-12-13 19:45:00,Southampton,17,18
+511,Chelsea,1,Southampton,0,2017-12-16 15:00:00,Southampton,18,18
+512,Southampton,1,Huddersfield Town,1,2017-12-23 15:00:00,Southampton,19,19
+513,Tottenham Hotspur,5,Southampton,2,2017-12-26 12:30:00,Southampton,20,19
+514,Manchester United,0,Southampton,0,2017-12-30 17:30:00,Southampton,21,20
+515,Southampton,1,Crystal Palace,2,2018-01-02 19:45:00,Southampton,22,20
+516,Watford,2,Southampton,2,2018-01-13 15:00:00,Southampton,23,21
+517,Southampton,1,Tottenham Hotspur,1,2018-01-21 16:00:00,Southampton,24,22
+518,Southampton,1,Brighton & Hove Albion,1,2018-01-31 19:45:00,Southampton,25,23
+519,West Bromwich Albion,2,Southampton,3,2018-02-03 15:00:00,Southampton,26,26
+520,Southampton,0,Liverpool,2,2018-02-11 16:30:00,Southampton,27,26
+521,Burnley,1,Southampton,1,2018-02-24 15:00:00,Southampton,28,27
+522,Southampton,0,Stoke City,0,2018-03-03 15:00:00,Southampton,29,28
+523,Newcastle United,3,Southampton,0,2018-03-10 15:00:00,Southampton,30,28
+524,West Ham United,3,Southampton,0,2018-03-31 14:00:00,Southampton,31,28
+525,Arsenal,3,Southampton,2,2018-04-08 13:15:00,Southampton,32,28
+526,Southampton,2,Chelsea,3,2018-04-14 11:30:00,Southampton,33,28
+527,Leicester City,0,Southampton,0,2018-04-19 18:45:00,Southampton,34,29
+528,Southampton,2,AFC Bournemouth,1,2018-04-28 14:00:00,Southampton,35,32
+529,Everton,1,Southampton,1,2018-05-05 16:30:00,Southampton,36,33
+530,Swansea City,0,Southampton,1,2018-05-08 18:45:00,Southampton,37,36
+531,Southampton,0,Manchester City,1,2018-05-13 14:00:00,Southampton,38,36
+532,Southampton,0,Swansea City,0,2017-08-12 14:00:00,Swansea City,1,1
+533,Swansea City,0,Manchester United,4,2017-08-19 11:30:00,Swansea City,2,1
+534,Crystal Palace,0,Swansea City,2,2017-08-26 14:00:00,Swansea City,3,4
+535,Swansea City,0,Newcastle United,1,2017-09-10 15:00:00,Swansea City,4,4
+536,Tottenham Hotspur,0,Swansea City,0,2017-09-16 16:30:00,Swansea City,5,5
+537,Swansea City,1,Watford,2,2017-09-23 14:00:00,Swansea City,6,5
+538,West Ham United,1,Swansea City,0,2017-09-30 14:00:00,Swansea City,7,5
+539,Swansea City,2,Huddersfield Town,0,2017-10-14 14:00:00,Swansea City,8,8
+540,Swansea City,1,Leicester City,2,2017-10-21 14:00:00,Swansea City,9,8
+541,Arsenal,2,Swansea City,1,2017-10-28 14:00:00,Swansea City,10,8
+542,Swansea City,0,Brighton & Hove Albion,1,2017-11-04 15:00:00,Swansea City,11,8
+543,Burnley,2,Swansea City,0,2017-11-18 15:00:00,Swansea City,12,8
+544,Swansea City,0,AFC Bournemouth,0,2017-11-25 15:00:00,Swansea City,13,9
+545,Chelsea,1,Swansea City,0,2017-11-29 19:45:00,Swansea City,14,9
+546,Stoke City,2,Swansea City,1,2017-12-02 15:00:00,Swansea City,15,9
+547,Swansea City,1,West Bromwich Albion,0,2017-12-09 15:00:00,Swansea City,16,12
+548,Swansea City,0,Manchester City,4,2017-12-13 19:45:00,Swansea City,17,12
+549,Everton,3,Swansea City,1,2017-12-18 20:00:00,Swansea City,18,12
+550,Swansea City,1,Crystal Palace,1,2017-12-23 15:00:00,Swansea City,19,13
+551,Liverpool,5,Swansea City,0,2017-12-26 17:30:00,Swansea City,20,13
+552,Watford,1,Swansea City,2,2017-12-30 15:00:00,Swansea City,21,16
+553,Swansea City,0,Tottenham Hotspur,2,2018-01-02 19:45:00,Swansea City,22,16
+554,Newcastle United,1,Swansea City,1,2018-01-13 15:00:00,Swansea City,23,17
+555,Swansea City,1,Liverpool,0,2018-01-22 20:00:00,Swansea City,24,20
+556,Swansea City,3,Arsenal,1,2018-01-30 19:45:00,Swansea City,25,23
+557,Leicester City,1,Swansea City,1,2018-02-03 15:00:00,Swansea City,26,24
+558,Swansea City,1,Burnley,0,2018-02-10 15:00:00,Swansea City,27,27
+559,Brighton & Hove Albion,4,Swansea City,1,2018-02-24 15:00:00,Swansea City,28,27
+560,Swansea City,4,West Ham United,1,2018-03-03 15:00:00,Swansea City,29,30
+561,Huddersfield Town,0,Swansea City,0,2018-03-10 15:00:00,Swansea City,30,31
+562,Manchester United,2,Swansea City,0,2018-03-31 14:00:00,Swansea City,31,31
+563,West Bromwich Albion,1,Swansea City,1,2018-04-07 14:00:00,Swansea City,32,32
+564,Swansea City,1,Everton,1,2018-04-14 14:00:00,Swansea City,33,33
+565,Manchester City,5,Swansea City,0,2018-04-22 15:30:00,Swansea City,34,33
+566,Swansea City,0,Chelsea,1,2018-04-28 16:30:00,Swansea City,35,33
+567,AFC Bournemouth,1,Swansea City,0,2018-05-05 14:00:00,Swansea City,36,33
+568,Swansea City,0,Southampton,1,2018-05-08 18:45:00,Swansea City,37,33
+569,Swansea City,1,Stoke City,2,2018-05-13 14:00:00,Swansea City,38,33
+570,Everton,1,Stoke City,0,2017-08-12 14:00:00,Stoke City,1,0
+571,Stoke City,1,Arsenal,0,2017-08-19 16:30:00,Stoke City,2,3
+572,West Bromwich Albion,1,Stoke City,1,2017-08-27 12:30:00,Stoke City,3,4
+573,Stoke City,2,Manchester United,2,2017-09-09 16:30:00,Stoke City,4,5
+574,Newcastle United,2,Stoke City,1,2017-09-16 14:00:00,Stoke City,5,5
+575,Stoke City,0,Chelsea,4,2017-09-23 14:00:00,Stoke City,6,5
+576,Stoke City,2,Southampton,1,2017-09-30 14:00:00,Stoke City,7,8
+577,Manchester City,7,Stoke City,2,2017-10-14 14:00:00,Stoke City,8,8
+578,Stoke City,1,AFC Bournemouth,2,2017-10-21 14:00:00,Stoke City,9,8
+579,Watford,0,Stoke City,1,2017-10-28 14:00:00,Stoke City,10,11
+580,Stoke City,2,Leicester City,2,2017-11-04 12:30:00,Stoke City,11,12
+581,Brighton & Hove Albion,2,Stoke City,2,2017-11-20 20:00:00,Stoke City,12,13
+582,Crystal Palace,2,Stoke City,1,2017-11-25 15:00:00,Stoke City,13,13
+583,Stoke City,0,Liverpool,3,2017-11-29 20:00:00,Stoke City,14,13
+584,Stoke City,2,Swansea City,1,2017-12-02 15:00:00,Stoke City,15,16
+585,Tottenham Hotspur,5,Stoke City,1,2017-12-09 15:00:00,Stoke City,16,16
+586,Burnley,1,Stoke City,0,2017-12-12 19:45:00,Stoke City,17,16
+587,Stoke City,0,West Ham United,3,2017-12-16 16:00:00,Stoke City,18,16
+588,Stoke City,3,West Bromwich Albion,1,2017-12-23 15:00:00,Stoke City,19,19
+589,Huddersfield Town,1,Stoke City,1,2017-12-26 15:00:00,Stoke City,20,20
+590,Chelsea,5,Stoke City,0,2017-12-30 15:00:00,Stoke City,21,20
+591,Stoke City,0,Newcastle United,1,2018-01-01 15:00:00,Stoke City,22,20
+592,Manchester United,3,Stoke City,0,2018-01-15 20:00:00,Stoke City,23,20
+593,Stoke City,2,Huddersfield Town,0,2018-01-20 15:00:00,Stoke City,24,23
+594,Stoke City,0,Watford,0,2018-01-31 20:00:00,Stoke City,25,24
+595,AFC Bournemouth,2,Stoke City,1,2018-02-03 15:00:00,Stoke City,26,24
+596,Stoke City,1,Brighton & Hove Albion,1,2018-02-10 15:00:00,Stoke City,27,25
+597,Leicester City,1,Stoke City,1,2018-02-24 12:30:00,Stoke City,28,26
+598,Southampton,0,Stoke City,0,2018-03-03 15:00:00,Stoke City,29,27
+599,Stoke City,0,Manchester City,2,2018-03-12 20:00:00,Stoke City,30,27
+600,Stoke City,1,Everton,2,2018-03-17 14:00:00,Stoke City,31,27
+601,Arsenal,3,Stoke City,0,2018-04-01 12:30:00,Stoke City,32,27
+602,Stoke City,1,Tottenham Hotspur,2,2018-04-07 14:00:00,Stoke City,33,27
+603,West Ham United,1,Stoke City,1,2018-04-16 19:00:00,Stoke City,34,28
+604,Stoke City,1,Burnley,1,2018-04-22 12:30:00,Stoke City,35,29
+605,Liverpool,0,Stoke City,0,2018-04-28 11:30:00,Stoke City,36,30
+606,Stoke City,1,Crystal Palace,2,2018-05-05 11:30:00,Stoke City,37,30
+607,Swansea City,1,Stoke City,2,2018-05-13 14:00:00,Stoke City,38,33
+608,Arsenal,4,Leicester City,3,2017-08-11 18:45:00,Leicester City,1,0
+609,Leicester City,2,Brighton & Hove Albion,0,2017-08-19 14:00:00,Leicester City,2,3
+610,Manchester United,2,Leicester City,0,2017-08-26 16:30:00,Leicester City,3,3
+611,Leicester City,1,Chelsea,2,2017-09-09 14:00:00,Leicester City,4,3
+612,Huddersfield Town,1,Leicester City,1,2017-09-16 14:00:00,Leicester City,5,4
+613,Leicester City,2,Liverpool,3,2017-09-23 16:30:00,Leicester City,6,4
+614,AFC Bournemouth,0,Leicester City,0,2017-09-30 14:00:00,Leicester City,7,5
+615,Leicester City,1,West Bromwich Albion,1,2017-10-16 19:00:00,Leicester City,8,6
+616,Swansea City,1,Leicester City,2,2017-10-21 14:00:00,Leicester City,9,9
+617,Leicester City,2,Everton,0,2017-10-29 16:00:00,Leicester City,10,12
+618,Stoke City,2,Leicester City,2,2017-11-04 12:30:00,Leicester City,11,13
+619,Leicester City,0,Manchester City,2,2017-11-18 15:00:00,Leicester City,12,13
+620,West Ham United,1,Leicester City,1,2017-11-24 20:00:00,Leicester City,13,14
+621,Leicester City,2,Tottenham Hotspur,1,2017-11-28 19:45:00,Leicester City,14,17
+622,Leicester City,1,Burnley,0,2017-12-02 15:00:00,Leicester City,15,20
+623,Newcastle United,2,Leicester City,3,2017-12-09 17:30:00,Leicester City,16,23
+624,Southampton,1,Leicester City,4,2017-12-13 19:45:00,Leicester City,17,26
+625,Leicester City,0,Crystal Palace,3,2017-12-16 12:30:00,Leicester City,18,26
+626,Leicester City,2,Manchester United,2,2017-12-23 19:45:00,Leicester City,19,27
+627,Watford,2,Leicester City,1,2017-12-26 15:00:00,Leicester City,20,27
+628,Liverpool,2,Leicester City,1,2017-12-30 15:00:00,Leicester City,21,27
+629,Leicester City,3,Huddersfield Town,0,2018-01-01 15:00:00,Leicester City,22,30
+630,Chelsea,0,Leicester City,0,2018-01-13 15:00:00,Leicester City,23,31
+631,Leicester City,2,Watford,0,2018-01-20 15:00:00,Leicester City,24,34
+632,Everton,2,Leicester City,1,2018-01-31 19:45:00,Leicester City,25,34
+633,Leicester City,1,Swansea City,1,2018-02-03 15:00:00,Leicester City,26,35
+634,Manchester City,5,Leicester City,1,2018-02-10 17:30:00,Leicester City,27,35
+635,Leicester City,1,Stoke City,1,2018-02-24 12:30:00,Leicester City,28,36
+636,Leicester City,1,AFC Bournemouth,1,2018-03-03 15:00:00,Leicester City,29,37
+637,West Bromwich Albion,1,Leicester City,4,2018-03-10 15:00:00,Leicester City,30,40
+638,Brighton & Hove Albion,0,Leicester City,2,2018-03-31 14:00:00,Leicester City,31,43
+639,Leicester City,1,Newcastle United,2,2018-04-07 14:00:00,Leicester City,32,43
+640,Burnley,2,Leicester City,1,2018-04-14 14:00:00,Leicester City,33,43
+641,Leicester City,0,Southampton,0,2018-04-19 18:45:00,Leicester City,34,44
+642,Crystal Palace,5,Leicester City,0,2018-04-28 14:00:00,Leicester City,35,44
+643,Leicester City,0,West Ham United,2,2018-05-05 14:00:00,Leicester City,36,44
+644,Leicester City,3,Arsenal,1,2018-05-09 18:45:00,Leicester City,37,47
+645,Tottenham Hotspur,5,Leicester City,4,2018-05-13 14:00:00,Leicester City,38,47
+646,Newcastle United,0,Tottenham Hotspur,2,2017-08-13 12:30:00,Tottenham Hotspur,1,3
+647,Tottenham Hotspur,1,Chelsea,2,2017-08-20 15:00:00,Tottenham Hotspur,2,3
+648,Tottenham Hotspur,1,Burnley,1,2017-08-27 15:00:00,Tottenham Hotspur,3,4
+649,Everton,0,Tottenham Hotspur,3,2017-09-09 14:00:00,Tottenham Hotspur,4,7
+650,Tottenham Hotspur,0,Swansea City,0,2017-09-16 16:30:00,Tottenham Hotspur,5,8
+651,West Ham United,2,Tottenham Hotspur,3,2017-09-23 11:30:00,Tottenham Hotspur,6,11
+652,Huddersfield Town,0,Tottenham Hotspur,4,2017-09-30 11:30:00,Tottenham Hotspur,7,14
+653,Tottenham Hotspur,1,AFC Bournemouth,0,2017-10-14 14:00:00,Tottenham Hotspur,8,17
+654,Tottenham Hotspur,4,Liverpool,1,2017-10-22 15:00:00,Tottenham Hotspur,9,20
+655,Manchester United,1,Tottenham Hotspur,0,2017-10-28 11:30:00,Tottenham Hotspur,10,20
+656,Tottenham Hotspur,1,Crystal Palace,0,2017-11-05 12:00:00,Tottenham Hotspur,11,23
+657,Arsenal,2,Tottenham Hotspur,0,2017-11-18 12:30:00,Tottenham Hotspur,12,23
+658,Tottenham Hotspur,1,West Bromwich Albion,1,2017-11-25 15:00:00,Tottenham Hotspur,13,24
+659,Leicester City,2,Tottenham Hotspur,1,2017-11-28 19:45:00,Tottenham Hotspur,14,24
+660,Watford,1,Tottenham Hotspur,1,2017-12-02 15:00:00,Tottenham Hotspur,15,25
+661,Tottenham Hotspur,5,Stoke City,1,2017-12-09 15:00:00,Tottenham Hotspur,16,28
+662,Tottenham Hotspur,2,Brighton & Hove Albion,0,2017-12-13 20:00:00,Tottenham Hotspur,17,31
+663,Manchester City,4,Tottenham Hotspur,1,2017-12-16 17:30:00,Tottenham Hotspur,18,31
+664,Burnley,0,Tottenham Hotspur,3,2017-12-23 17:30:00,Tottenham Hotspur,19,34
+665,Tottenham Hotspur,5,Southampton,2,2017-12-26 12:30:00,Tottenham Hotspur,20,37
+666,Swansea City,0,Tottenham Hotspur,2,2018-01-02 19:45:00,Tottenham Hotspur,21,40
+667,Tottenham Hotspur,1,West Ham United,1,2018-01-04 20:00:00,Tottenham Hotspur,22,41
+668,Tottenham Hotspur,4,Everton,0,2018-01-13 17:30:00,Tottenham Hotspur,23,44
+669,Southampton,1,Tottenham Hotspur,1,2018-01-21 16:00:00,Tottenham Hotspur,24,45
+670,Tottenham Hotspur,2,Manchester United,0,2018-01-31 20:00:00,Tottenham Hotspur,25,48
+671,Liverpool,2,Tottenham Hotspur,2,2018-02-04 16:30:00,Tottenham Hotspur,26,49
+672,Tottenham Hotspur,1,Arsenal,0,2018-02-10 12:30:00,Tottenham Hotspur,27,52
+673,Crystal Palace,0,Tottenham Hotspur,1,2018-02-25 12:00:00,Tottenham Hotspur,28,55
+674,Tottenham Hotspur,2,Huddersfield Town,0,2018-03-03 15:00:00,Tottenham Hotspur,29,58
+675,AFC Bournemouth,1,Tottenham Hotspur,4,2018-03-11 16:00:00,Tottenham Hotspur,30,61
+676,Chelsea,1,Tottenham Hotspur,3,2018-04-01 15:00:00,Tottenham Hotspur,31,64
+677,Stoke City,1,Tottenham Hotspur,2,2018-04-07 14:00:00,Tottenham Hotspur,32,67
+678,Tottenham Hotspur,1,Manchester City,3,2018-04-14 18:45:00,Tottenham Hotspur,33,67
+679,Brighton & Hove Albion,1,Tottenham Hotspur,1,2018-04-17 18:45:00,Tottenham Hotspur,34,68
+680,Tottenham Hotspur,2,Watford,0,2018-04-30 19:00:00,Tottenham Hotspur,35,71
+681,West Bromwich Albion,1,Tottenham Hotspur,0,2018-05-05 14:00:00,Tottenham Hotspur,36,71
+682,Tottenham Hotspur,1,Newcastle United,0,2018-05-09 19:00:00,Tottenham Hotspur,37,74
+683,Tottenham Hotspur,5,Leicester City,4,2018-05-13 14:00:00,Tottenham Hotspur,38,77
+684,Everton,1,Stoke City,0,2017-08-12 14:00:00,Everton,1,3
+685,Manchester City,1,Everton,1,2017-08-21 19:00:00,Everton,2,4
+686,Chelsea,2,Everton,0,2017-08-27 12:30:00,Everton,3,4
+687,Everton,0,Tottenham Hotspur,3,2017-09-09 14:00:00,Everton,4,4
+688,Manchester United,4,Everton,0,2017-09-17 15:00:00,Everton,5,4
+689,Everton,2,AFC Bournemouth,1,2017-09-23 14:00:00,Everton,6,7
+690,Everton,0,Burnley,1,2017-10-01 13:15:00,Everton,7,7
+691,Brighton & Hove Albion,1,Everton,1,2017-10-15 12:30:00,Everton,8,8
+692,Everton,2,Arsenal,5,2017-10-22 12:30:00,Everton,9,8
+693,Leicester City,2,Everton,0,2017-10-29 16:00:00,Everton,10,8
+694,Everton,3,Watford,2,2017-11-05 16:30:00,Everton,11,11
+695,Crystal Palace,2,Everton,2,2017-11-18 15:00:00,Everton,12,12
+696,Southampton,4,Everton,1,2017-11-26 13:30:00,Everton,13,12
+697,Everton,4,West Ham United,0,2017-11-29 20:00:00,Everton,14,15
+698,Everton,2,Huddersfield Town,0,2017-12-02 15:00:00,Everton,15,18
+699,Liverpool,1,Everton,1,2017-12-10 14:15:00,Everton,16,19
+700,Newcastle United,0,Everton,1,2017-12-13 19:45:00,Everton,17,22
+701,Everton,3,Swansea City,1,2017-12-18 20:00:00,Everton,18,25
+702,Everton,0,Chelsea,0,2017-12-23 12:30:00,Everton,19,26
+703,West Bromwich Albion,0,Everton,0,2017-12-26 15:00:00,Everton,20,27
+704,AFC Bournemouth,2,Everton,1,2017-12-30 15:00:00,Everton,21,27
+705,Everton,0,Manchester United,2,2018-01-01 17:30:00,Everton,22,27
+706,Tottenham Hotspur,4,Everton,0,2018-01-13 17:30:00,Everton,23,27
+707,Everton,1,West Bromwich Albion,1,2018-01-20 15:00:00,Everton,24,28
+708,Everton,2,Leicester City,1,2018-01-31 19:45:00,Everton,25,31
+709,Arsenal,5,Everton,1,2018-02-03 17:30:00,Everton,26,31
+710,Everton,3,Crystal Palace,1,2018-02-10 15:00:00,Everton,27,34
+711,Watford,1,Everton,0,2018-02-24 17:30:00,Everton,28,35
+712,Burnley,2,Everton,1,2018-03-03 12:30:00,Everton,29,35
+713,Everton,2,Brighton & Hove Albion,0,2018-03-10 15:00:00,Everton,30,36
+714,Stoke City,1,Everton,2,2018-03-17 14:00:00,Everton,31,39
+715,Everton,1,Manchester City,3,2018-03-31 16:30:00,Everton,32,39
+716,Everton,0,Liverpool,0,2018-04-07 11:30:00,Everton,33,40
+717,Swansea City,1,Everton,1,2018-04-14 14:00:00,Everton,34,41
+718,Everton,1,Newcastle United,0,2018-04-23 19:00:00,Everton,35,44
+719,Huddersfield Town,0,Everton,2,2018-04-28 14:00:00,Everton,36,47
+720,Everton,1,Southampton,1,2018-05-05 16:30:00,Everton,37,48
+721,West Ham United,3,Everton,1,2018-05-13 14:00:00,Everton,38,48
+722,Manchester United,4,West Ham United,0,2017-08-13 15:00:00,West Ham United,1,0
+723,Southampton,3,West Ham United,2,2017-08-19 14:00:00,West Ham United,2,0
+724,Newcastle United,3,West Ham United,0,2017-08-26 14:00:00,West Ham United,3,0
+725,West Ham United,2,Huddersfield Town,0,2017-09-11 19:00:00,West Ham United,4,3
+726,West Bromwich Albion,0,West Ham United,0,2017-09-16 14:00:00,West Ham United,5,4
+727,West Ham United,2,Tottenham Hotspur,3,2017-09-23 11:30:00,West Ham United,6,4
+728,West Ham United,1,Swansea City,0,2017-09-30 14:00:00,West Ham United,7,7
+729,Burnley,1,West Ham United,1,2017-10-14 14:00:00,West Ham United,8,8
+730,West Ham United,0,Brighton & Hove Albion,3,2017-10-20 19:00:00,West Ham United,9,8
+731,Crystal Palace,2,West Ham United,2,2017-10-28 14:00:00,West Ham United,10,9
+732,West Ham United,1,Liverpool,4,2017-11-04 17:30:00,West Ham United,11,9
+733,Watford,2,West Ham United,0,2017-11-19 16:00:00,West Ham United,12,9
+734,West Ham United,1,Leicester City,1,2017-11-24 20:00:00,West Ham United,13,10
+735,Everton,4,West Ham United,0,2017-11-29 20:00:00,West Ham United,14,10
+736,Manchester City,2,West Ham United,1,2017-12-03 16:00:00,West Ham United,15,10
+737,West Ham United,1,Chelsea,0,2017-12-09 12:30:00,West Ham United,16,13
+738,West Ham United,0,Arsenal,0,2017-12-13 20:00:00,West Ham United,17,14
+739,Stoke City,0,West Ham United,3,2017-12-16 16:00:00,West Ham United,18,17
+740,West Ham United,2,Newcastle United,3,2017-12-23 15:00:00,West Ham United,19,17
+741,AFC Bournemouth,3,West Ham United,3,2017-12-26 15:00:00,West Ham United,20,18
+742,West Ham United,2,West Bromwich Albion,1,2018-01-02 19:45:00,West Ham United,21,21
+743,Tottenham Hotspur,1,West Ham United,1,2018-01-04 20:00:00,West Ham United,22,22
+744,Huddersfield Town,1,West Ham United,4,2018-01-13 15:00:00,West Ham United,23,25
+745,West Ham United,1,AFC Bournemouth,1,2018-01-20 15:00:00,West Ham United,24,26
+746,West Ham United,1,Crystal Palace,1,2018-01-30 19:45:00,West Ham United,25,27
+747,Brighton & Hove Albion,3,West Ham United,1,2018-02-03 15:00:00,West Ham United,26,27
+748,West Ham United,2,Watford,0,2018-02-10 15:00:00,West Ham United,27,30
+749,Liverpool,4,West Ham United,1,2018-02-24 15:00:00,West Ham United,28,30
+750,Swansea City,4,West Ham United,1,2018-03-03 15:00:00,West Ham United,29,30
+751,West Ham United,0,Burnley,3,2018-03-10 15:00:00,West Ham United,30,30
+752,West Ham United,3,Southampton,0,2018-03-31 14:00:00,West Ham United,31,33
+753,Chelsea,1,West Ham United,1,2018-04-08 15:30:00,West Ham United,32,34
+754,West Ham United,1,Stoke City,1,2018-04-16 19:00:00,West Ham United,33,35
+755,Arsenal,4,West Ham United,1,2018-04-22 12:30:00,West Ham United,34,35
+756,West Ham United,1,Manchester City,4,2018-04-29 13:15:00,West Ham United,35,35
+757,Leicester City,0,West Ham United,2,2018-05-05 14:00:00,West Ham United,36,38
+758,West Ham United,0,Manchester United,0,2018-05-10 18:45:00,West Ham United,37,39
+759,West Ham United,3,Everton,1,2018-05-13 14:00:00,West Ham United,38,42

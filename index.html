@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js one-page-layout" data-classic-layout="false" data-mobile-only-classic-layout="true" data-inAnimation="fadeInUp" data-outAnimation="fadeOutDownBig"><!-- InstanceBegin template="/Templates/layout.dwt" codeOutsideHTMLIsLocked="false" -->
+
+  <head>
+
+    <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="description" content="info_viz">
+        <meta name="keywords" content="info_viz">
+        <meta name="author" content="info_viz">
+
+        <title>SOCCER DATA VIZ</title>
+
+        <!-- FAV and TOUCH ICONS -->
+        <script src="js/modernizr.custom.js"></script>
+
+        <!-- FONTS -->
+        <link href='https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Tangerine:400,700' rel='stylesheet' type='text/css'>
+
+        <!-- STYLES -->
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" type="text/css" href="css/custom.css">
+        <link rel="stylesheet" type="text/css" href="bubble.css">
+
+
+        <script src="https://d3js.org/d3.v3.js"></script>
+        <script src="https://code.jquery.com/jquery.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <!-- <link href="css/bootstrap.min.css" rel="stylesheet" media="screen"> -->
+
+
+
+
+
+
+
+
+        <!--[if lte IE 9]>
+            <script src="js/html5shiv.js"></script>
+            <script src="js/respond.min.js"></script>
+            <script src="js/selectivizr-min.js"></script>
+        <![endif]-->
+
+    <!-- InstanceBeginEditable name="head" -->
+        <!-- InstanceEndEditable -->
+
+  </head>
+
+
+	<body>
+        <!-- <img alt="full screen background image" src="images/site/Pepsized_Blur_15.jpg" id="full-screen-background-image" /> 	 -->
+
+
+
+        <!-- CONTAINER -->
+           <div id="home">
+                 <div class="container" id="home-container">
+                    <div class="center" id="home-text">
+<!--                     <ul>
+                        <li style="float: right; display: inline;"><a href="#/soccer" style="color: #FFF;padding-top: 5px; padding-bottom: 15px; padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 15px;box-sizing: border-box; display: block;text-align: -webkit-match-parent; font-weight: 400;list-style: none;">About</a></li>
+                        <li style="float: right; display: inline;"><a href="#/performance" style="color: #FFF;padding-top: 5px; padding-bottom: 15px; padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 15px;box-sizing: border-box; display: block;text-align: -webkit-match-parent; font-weight: 400;list-style: none;">Performance Trends</a></li>
+                        <li style="float: right; display: inline;"><a href="#/analysis" style="color: #FFF;padding-top: 5px; padding-bottom: 15px; padding-top: 10px; padding-right: 15px; padding-bottom: 10px; padding-left: 15px;box-sizing: border-box; display: block;text-align: -webkit-match-parent; font-weight: 400;list-style: none;">Data Exploration</a></li>
+                    </ul> -->
+                    <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
+					<!--
+                        <li style="float: right;"><a href="#analysis" style="display: block;
+    color: #D6D6D6;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px 16px 10px;
+    text-decoration: none;font-weight: bold;">Data Exploration</a></li>
+-->
+                        <li style="float: right;"><a href="#performance" style="display: block;
+    color: #D6D6D6;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px 16px 10px;
+    text-decoration: none;font-weight: bold;">Performance Trends</a></li>
+
+                        <li style="float: right;"><a href="#about" style="display: block;
+    color: #D6D6D6;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0px 16px 10px;
+    text-decoration: none;font-weight: bold;">About</a></li>
+                    </ul>
+                      <h2 style="padding-top:.4em; padding-bottom:.2em;">SOCCER DATA VIZ</h2>
+                      <p>
+
+                        <span class="credit">
+                          <br/>
+
+                          Akash Indani, Reek Majumder | Data visualization Final Project
+                        </span>
+<!--                         <br/>
+                        <span class="subheader">
+                          INFO 247_Information Visualization_Final Project
+                        </span> -->
+                      </p>
+                  </div>
+
+                 </div>
+
+          </div>
+
+		<div class="container" id="container">
+
+
+
+            <!-- HEADER -->
+            <header class="header">
+                <!-- NAV MENU -->
+
+
+
+<!--                 <ul class="vs-nav">
+
+
+                    <li><a href="#/soccer">I. About</a></li>
+                    <li><a href="#/performance">II. Performance Trends</a></li>
+                    <li><a href="#/analysis">III. Data Exploration</a></li>
+
+
+                </ul> -->
+
+
+                <!-- NAV MENU -->
+
+
+			</header>
+            <!-- HEADER -->
+
+            <!-- WRAPPER -->
+			<div class="wrapper">
+
+
+				<!-- InstanceBeginEditable name="Page-Content" -->
+
+
+                <!-- PAGE : PORTFOLIO -->
+               <a name="about"></a>
+			<section id="soccer" class="portfolio page">
+			<div class="content">
+
+<!--                         <h2 class="section-title center"><span><i class="icon-leaf"></i>MY WORKS</span></h2> -->
+
+            <div class="row" style="margin-left:5em;margin-right:5em;">
+                <div class="icon-top-title center">
+
+                  <h2 style="margin-top:1.5em;">Premier League? LaLiga? Soccer?<br></br></h2>
+                  <h3>Exploring English Premier League and LaLiga through data.<br/>
+                      A guide to understanding soccer and EPL or LaLiga.</h3>
+                </div>
+
+                <div class="col-md-12 center">
+                    <p style="display:block;">.<br/>The English Premier League and LaLiga are the world’s most popular professional soccer leagues. Both the leagues involves 20 teams, each playing a total of 38 matches every season, hence totaling 760 matches per season, making it a very rich source of data. We took the data from figshare which provided us data of season 2017-2018. The data set is available publicly at <a href="https://figshare.com/collections/Soccer_match_event_dataset/4415000">here</a>.<br/></p>
+
+                    <p style="text-align: block;">As huge fans of the beautiful game of soccer and its different leagues, we are motivated to share our enthusiasm with others. The project hence aims at utilizing data to create rich visualizations to help understand soccer data more efficiently. We aim to create visualizations that would allow people to easily understand various data metrics and performance indicators in an interactive manner. With easy to understand and interactive visualizations, we aim to provide better insights about soccer and the league, like how do teams perform throughout seasons, how is it performing relative to other teams, etc.</p>
+                    <article class="icon-box2">
+                   <div>
+                    <div class="col-md-6 center">
+                        <h3>Official website for the English Premier League</h3>
+                    <a href="https://www.premierleague.com/en-gb/matchday/results.html"><img src="images/Website1.jpg" width="500" height="300" alt=""></a>
+                  </div>
+
+
+                    <div class="col-md-6 center">
+                        <h3>Official website for LaLiga</h3>
+					<a href="https://www.laliga.com/en-GB"><img src="images/laliga.JPG" alt="" width="500" height="300"></a>
+
+                  </div>
+              </div>
+                    </article>
+
+                </div>
+          </div>
+
+
+    
+                </div>
+            </div>
+
+
+
+          </div>
+                    <!-- CONTENT -->
+				</section>
+                <!-- PAGE : PORTFOLIO -->
+
+
+
+
+                <!-- PAGE : CONTACT -->
+				<section id="performance" class="page" ng-app="mainApp" ng-controller="MainCtrl as chart">
+                <a name="performance"></a>
+                  <div class="content">
+				  
+					
+					
+
+                    <div class="row" style="background-color:#F0F0F0; padding-bottom: 6em;">
+						
+						<!--
+                        <div class="icon-top-title center">
+                          <h2 style="margin-top:3em;">Team Progression during the Season<br></br></h2>
+                          <p style="margin-left:6em;margin-right:6em;">All 20 teams in the Premier League, play every other team twice every season, playing a total of 38 matches. Every team plays one match every week. A win earns a team 3 points, a draw earns both the teams 1 point and a loss does not earn any point. At the end of 38 weeks, the team with the maximum number of points wins the League. Different teams perform differently in the league. The better teams perform consistently throughout the year, while some teams perform extremely well for one half of the year, but manage to loose in the other half. Also, due to the highly unpredictable nature of the league, any team can win or lose at any time. Therefore, looking at how teams perform throughout the year, can provide some interesting insights about the league.</p>
+
+                          <h3>Below is a visualization showcasing the team performance as the League progresses.</h3>
+                                    <p style="margin-left:6em;margin-right:6em;">Select the season from the dropdown to view the team performances for that season. Hover on a team to view its performance in the season. The horizontal axis represents the 38 weeks in the tournament. The vertical axis represents the maximum and the minimum points scored by any team in that week. Each line represents a team, showcasing its performance throughout the year.</p>
+                        </div>
+						
+						-->
+						<div class="icon-top-title center">
+                          <h2 style="margin-top:3em;">Team Progression during the Season<br></br></h2>
+                          <p style="margin-left:6em;margin-right:6em;">All 20 teams in the League, play every other team twice every season, playing a total of 38 matches. Every team plays one match every week. A win earns a team 3 points, a draw earns both the teams 1 point and a loss does not earn any point. At the end of 38 weeks, the team with the maximum number of points wins the League. Different teams perform differently in the league. The better teams perform consistently throughout the year, while some teams perform extremely well for one half of the year, but manage to loose in the other half. Also, due to the highly unpredictable nature, any team can win or lose at any time. Therefore, looking at how teams perform throughout the year, can provide some interesting insights.</p>
+
+                          <h3>Below is a visualization showcasing the team performance as how the particular league progresses.</h3>
+                                    <p style="margin-left:6em;margin-right:6em;"><b>Select the league country(england or spain)</b> from the dropdown to view the team performances for that league. Also, you can select different types of visualization like <b>Compact and Track </b> to show line graph. Hover on a points to see the scoreline of that match. The horizontal axis represents the 38 weeks in the tournament. The vertical axis represents the maximum and the minimum points scored by any team in that week. Each line represents a team, showcasing its performance throughout the year.</p>
+                        </div>
+						
+						<!--
+                        <div class="col-md-12 center">
+                            <div id="line_viz">
+                              <div >
+                                <h3>Select Year:
+                                  Binds options to radar.examples. Binds selected item to example selected. Fires change method with the selected example.
+                                  <select ng-options="example for example in chart.seasons_line" ng-model="chart.seasonSelected_line" ng-change="chart.selectSeason_line(chart.seasonSelected_line)"></select>
+                                </h3>
+                              </div>
+                              </div>
+                      
+                        </div>
+						-->
+						<!-- New code by reek -->
+						
+						<div align='center' class="viewof-dataFileName"><p> Select League: </p> </div> 
+						<div align='center' class="viewof-drawingStyle"><p> Select Visualization type: </p></div>
+						<div align='center' class="chart"></div>
+						<p align='center'>Observable link: <a href="https://observablehq.com/@rmajumd/final-lines-with-bumps-v1-2">Bump line graph by Reek Majumder</a></p>
+
+						<script type="module">
+						import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+						import define from "https://api.observablehq.com/@rmajumd/final-lines-with-bumps-v1-2.js?v=3";
+						(new Runtime).module(define, name => {
+						  if (name === "viewof dataFileName") return Inspector.into(".viewof-dataFileName")();
+						  if (name === "viewof drawingStyle") return Inspector.into(".viewof-drawingStyle")();
+						  if (name === "chart") return Inspector.into(".chart")();
+						  return ["data","gameweek","teams","chartData","bx1","bx","ax","ranking","width","height","color","by","a","right","y","lef","left"].includes(name) || null;
+						});
+						</script>
+						
+						
+						<!--
+						<div align='center' class="viewof-dataFileName"><p> Select League: </p> </div> 
+						<div align='center' class="viewof-drawingStyle"><p> Select Visualization type: </p></div>
+						<div class="chart"></div>
+						<p>Credit: <a href="https://observablehq.com/@rmajumd/final-lines-with-bumps-v1-2-1">Final Lines with bumps v1.2.1 by Reek Majumder</a></p>
+
+						<script type="module">
+						import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+						import define from "https://api.observablehq.com/@rmajumd/final-lines-with-bumps-v1-2-1.js?v=3";
+						(new Runtime).module(define, name => {
+						  if (name === "viewof dataFileName") return Inspector.into(".viewof-dataFileName")();
+						  if (name === "viewof drawingStyle") return Inspector.into(".viewof-drawingStyle")();
+						  if (name === "chart") return Inspector.into(".chart")();
+						  return ["data","gameweek","teams","chartData","bx","ax","ranking","width","height","color","by","a","right","y","lef","left"].includes(name) || null;
+						});
+						</script>
+						-->
+						
+						
+
+                    </div>
+
+
+                    <div class="row" style="background-color: #F9F9F9; padding-bottom: 6em;">
+                        <div class="icon-top-title center">
+                          <h2 style="margin-top:3em;">Relative Team Performance<br></br></h2>
+                          <p style="margin-left:6em;margin-right:6em;">In the leagues, teams have different Home and away performances, establishing patterns within the league. For example, Liverpool performed very well and was title contendor, but they performed poorly in away games by multiple loses and drawn matches (We can see that in the below graph by selecting Liverpool). Such interesting insights can be developed if one views the relative performaces of teams with respect to each other.</p>
+                          <h3>Below is an interactive visualization that displays relative performace of teams of different leagues.</h3>
+                          <p style="margin-left:6em;margin-right:6em;">Select the league from the drop down. <b> Double click </b> on a team to view its relative performance w.r.t other teams during that season. Click and drag any of the teams to view the data clearly, if not visible. Hover on lines/circles for more info.</p>
+                        </div>
+
+                        <div class="col-md-12 center">
+                        <!-- row -->
+                              <div >
+                                <h3>Select League:
+                                  <!--Binds options to radar.examples. Binds selected item to example selected. Fires change method with the selected example.-->
+                                  <select ng-options="example for example in chart.seasons_network" ng-model="chart.seasonSelected_network" ng-change="chart.selectSeason_network(chart.seasonSelected_network)"></select>
+                                </h3>
+                                 <div id = "bubble_viz">
+                                 </div>
+
+                              </div>
+
+                        </div>
+                        <!-- row -->
+                    </div>
+
+
+         
+
+
+
+                    </div>
+
+                    <!-- CONTENT -->
+
+				</section>
+                <!-- PAGE : CONTACT -->
+
+
+
+
+
+            	<!-- InstanceEndEditable -->
+
+
+
+			</div>
+            <!-- WRAPPER -->
+
+
+		</div>
+        <!-- CONTAINER -->
+
+
+
+
+
+        <!-- InstanceBeginEditable name="Body-End-Content" -->
+
+
+        <!-- PORTFOLIO SINGLE AJAX CONTENT CONTAINER -->
+        <div class="p-overlay"></div>
+        <div class="p-overlay"></div>
+
+
+        <!-- ALERT : used for contact form mail delivery alert -->
+        <div class="site-alert animated"></div>
+
+
+        <!-- InstanceEndEditable -->
+
+
+
+
+       <!-- SCRIPTS
+        <script src="js/jquery-1.10.2.min.js"></script>
+        <script src="js/jquery-migrate-1.2.1.min.js"></script>
+        <script src="js/jquery.address-1.5.min.js"></script>
+        <script src="js/triple.layout.js"></script>
+        <script src="js/nprogress/nprogress.js"></script>
+        <script src="js/jquery.uniform.min.js"></script>
+        <script src="js/fastclick.js"></script>
+        <script src="js/mediaelement/mediaelement-and-player.min.js"></script>
+        <script src="js/send-mail.js"></script>
+        <script src="js/classie.js"></script>
+        <script src="js/main.js"></script> -->
+
+        <!-- scroll up -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <!-- <script type="text/javascript" src="https://arrow.scrolltotop.com/arrow88.js"></script> -->
+
+<!-- SCRIPTS for bubble chart -->
+
+        <script src="https://d3js.org/d3.v3.min.js"></script>
+        <script src ="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.min.js"></script>
+        <script src="app.js"></script>
+        <script src="network.js"></script>
+
+<!-- SCRIPTS for tactics chart -->
+        <script src="js/tacticsboard.js"></script>
+<!-- Scripts for Line Chart -->
+        <script src="line.js"></script>
+
+
+<!--  scroll to top
+          <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+          <script type="text/javascript" src="http://arrow.scrolltotop.com/arrow64.js"></script>
+     -->
+
+
+
+	</body>
+
+
+<!-- InstanceEnd -->
+</html>

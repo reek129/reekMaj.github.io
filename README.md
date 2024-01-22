@@ -7,7 +7,7 @@ Link to your website: https://reek129.github.io/reekMajumder/
 
 Link to your original dataset: https://figshare.com/collections/Soccer_match_event_dataset/4415000
 
-Link to final project report: https://github.com/akashindani/akashindani.github.io/blob/main/g05_final_project_report.pdf
+Link to final project report: https://github.com/reek129/reekMajumder/blob/main/g05_final_project_report.pdf
 
 Link to video: https://clemson.box.com/s/bjedv77ipr3rdp2zoolxya6ehnz3k7jl
 

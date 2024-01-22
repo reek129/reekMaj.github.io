@@ -1,4 +1,4 @@
-# akashindani.github.io
+# reekMaj.github.io
 Group number: 5
 
 Group members: Akash Indani, Reek Majumder
